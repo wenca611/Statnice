@@ -1,6 +1,7 @@
 # Statnice
 * název práce: Testy pro státnice nebo jiné testy
 * autor: Pastušek Václav
+* škola: VUT FEKT
 * rok: 2021/22
 
 ## Požadovaná cesta:
