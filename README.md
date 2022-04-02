@@ -5,6 +5,10 @@
 * rok: 2021/22
 * testeři: Pastušek Václav
 
+## Upozornění:
+* Toto neslouží jako úplné nahrazení přípravy na testy!!!
+* Není vhodné pro otázky s vícero obrázky/grafy/odpovědí atd.
+
 ## Požadovaná cesta:
 * ROOT - adresář se vším
 * | statnine.py - jediný hlavní python skript
@@ -34,6 +38,7 @@
 * * váhováné generování všechny body se zvednou nad 0 a transformují podle 1/(x+1)+1
 
 ## TODO list:
+* jde kombinovat otázka (obrázek) a odpověď (text) nebo opačně, ale ne oboje v jedné části !!!
 * možnost sdílení státnicových otázek mezi sebou a jiných testů dle předmětu
 * v průběhu testování je otevřen soubor, který při terminaci programu nebo nástání chyby, kterou nechytím smaže data v statnice.txt !!!
 * * řešení: překopat program a vícekrát otvírat program bez přepisu a až nakonec s přepisem (moc práce)
