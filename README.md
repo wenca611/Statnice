@@ -19,7 +19,7 @@
 
 ## Funguje:
 * Nastavitelný multiple choice otázky s nastavitelným počtem kol.
-* data:
+data:
 * ignorují se prázdné řádky, 1 lexém a komenty začínající #
 * pro test jsou určeny 2 a 4 lexémy
 * automaticky se převede Q:A => Q:A:0:0
