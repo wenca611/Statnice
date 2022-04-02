@@ -1,0 +1,129 @@
+Státnice = 2021/22
+University = VUT Brno
+Faculty = FEKT
+Author = Václav Pastušek
+Creation date = 2021/22
+
+# ignorují se prázdné řádky, 1 lexém a komenty začínající #
+# pro test jsou určeny 2 a 4 lexémy
+# automaticky se převede Q:A => Q:A:0:0
+# jiné počty lexémů jsou chybné !!
+# bere obrázky typu jpg od data\ a nakonci nedávát .jpg
+# př.: imgpath = OKO\1 => data\\OKO\\1.jpg
+# [imgpath]:[imgpath2]:0:0
+pro ukončení obrázků stiskněte v obrázku libovolnou klávesu
+
+zkouška)
+hello:ahoj:0:0
+world:svět:0:0
+1+2:2+1:3:2
+
+OKO)
+Jonesovy vektory)
+lineární polarizace ve směru x:[OKO\jones\1]:0:0
+lineární polarizace ve směru y:[OKO\jones\2]:0:0
+levotočivá kruhová polarizace:[OKO\jones\3]:0:0
+pravotočivá kruhová polarizace:[OKO\jones\4]:0:0
+lineární polarizace ve směru 45°:[OKO\jones\5]:0:0
+lineární polarizace ve směru -45°:[OKO\jones\6]:0:0
+lineární polarizace ve směru theta:[OKO\jones\7]:-99:1
+
+Jonesovy matice)
+lineární polarizátor ve směru x:[OKO\jones\10]:0:0
+lineární polarizátor ve směru y:[OKO\jones\11]:0:0
+fázová destička s fázovým posuvem gamma:[OKO\jones\12]:0:0
+čtvrtvlná destička:[OKO\jones\13]:0:0
+půlvlná destička:[OKO\jones\14]:0:0
+lineární polarizátor ve směru 45°:[OKO\jones\15]:0:0
+lineární polarizátor ve směru -45°:[OKO\jones\16]:0:0
+levotočivý kruhový polarizátor:[OKO\jones\17]:0:0
+pravotočivý kruhový polarizátor:[OKO\jones\18]:-99:1
+
+1)
+# Optická vlna:lineárně polarizovaná, pokud bylo záření laserové diody generováno v nadprahovém režimu:0:0
+# Optický výkon(Zářivý tok):[OKO\1]:0:0
+# Optická intenzita(Hustota zářivého toku):[OKO\2]:-99:1
+# Radiometrické veličiny:
+# Fotometrické veličiny:
+# Optické komunikační spektrum:
+# Dělení optických komunikačních systémů:
+# Gauusův svazek a jeho výkonnové, geometrické a spektrální parametry:
+# Top Hat svazek:
+# Besselovský svazek:
+
+2)
+# Difrakce optického záření:
+# Dielektrická prostřední:
+# Polarizace optického záření:
+# Jonesovy matice a vektory:
+# Časová a prostorová koherence optických vln:
+# Interference:
+# Fabryův – Perotův interferometr.
+
+3)
+# Materiály pro výrobu optických komponent, jejich základní vlastnosti:
+# Typy optických
+# čoček a jejich charakteristiky:
+# Děliče svazků, zrcadla, hranoly, reflektory, optické
+# izolátory, optické filtry:
+# Vlnové destičky:
+# Index lomu prostředí.
+
+4)
+# Princip funkce laseru:
+# Optický rezonátor a vyzařované vlnové délky:
+# Funkce tvaru
+# spektrální a rezonanční čáry laseru:
+# Laserové diody a LED:
+Tvarování optického svazku.
+
+5)
+# Princip fotodetekce a fotoelektrický jev:
+# Fotodiody PIN, lavinové fotodiody a jejich
+# charakteristiky:
+# Statistické a stacionární parametry optického spoje.
+
+6)
+# Šumy v optické komunikaci:
+# Koherentní a nekoherentní optické komunikační systémy.
+# Modulační techniky v optických komunikacích:
+# Odstup signálu od šumu a chybovost
+# signálu:
+# Výkonová bilanční rovnice a výkonový diagram.
+
+7)
+# Princip šíření světla v optických vláknech:
+# Typy optických vláken a jejich základní
+# parametry:
+# Disperze a útlum optického signálu:
+# Technologie výroby optických vláken.
+# Energetická bilance optického kabelového spoje:
+# Útlumové a disperzní omezení spoje.
+
+8)
+# Beerův – Lambertův zákon:
+# Útlumy a rozptyly v atmosféře:
+# Atmosférická turbulence a
+# refrakce:
+# Šumy v optických bezkabelových spojích:
+# Nestandardní atmosférické jevy.
+# Používané vlnové délky pro atmosférické optické komunikace:
+# Vrstvy atmosféry a jejich
+# charakteristika.
+
+9)
+# Konstrukce vysílací a přijímací jednotky v optickém bezkabelovém spoji:
+# Energetická
+# bilance optického bezkabelového spoje:
+# Bezpečnost a zabezpečení v optické bezkabelové
+# komunikaci:
+# Postup při návrhu optického bezkabelového spoje.
+
+10)
+# Optické hybridní spoje FSO/RF a jejich charakteristika:
+# Princip komunikace plně fotonického spoje a požadavky na komunikační řetězec:
+# Visible light communication VLC:
+# Optická komunikační síť.
+
+navíc)
+# Podprahový režim:nepolarizované záření(převládá spontánní emise):-134:11
