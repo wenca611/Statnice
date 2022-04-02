@@ -3,6 +3,7 @@
 * autor: Pastušek Václav
 * škola: VUT FEKT
 * rok: 2021/22
+* testeři: Pastušek Václav
 
 ## Požadovaná cesta:
 * ROOT - adresář se vším
