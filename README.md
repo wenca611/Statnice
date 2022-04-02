@@ -18,6 +18,8 @@
 * | | ...
 
 ## Funguje:
+* Nastavitelný multiple choice otázky s nastavitelným počtem kol.
+* data:
 * ignorují se prázdné řádky, 1 lexém a komenty začínající #
 * pro test jsou určeny 2 a 4 lexémy
 * automaticky se převede Q:A => Q:A:0:0
@@ -25,6 +27,7 @@
 * bere obrázky typu jpg od data\ a nakonci nedávát .jpg
 * př.: imgpath = OKO\1 => data\\OKO\\1.jpg
 * \[imgpath\]:\[imgpath2\]:0:0
+* 
 * pro ukončení obrázků stiskněte v obrázku libovolnou klávesu
 * feature: 
 * * každý start se random někde ubere 100 bodů, může být na více místech v závislosti na logaritmu dat o základě 2
