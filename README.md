@@ -27,7 +27,7 @@
 * bere obrázky typu jpg od data\ a nakonci nedávát .jpg
 * př.: imgpath = OKO\1 => data\\OKO\\1.jpg
 * \[imgpath\]:\[imgpath2\]:0:0
-* 
+### jiné:
 * pro ukončení obrázků stiskněte v obrázku libovolnou klávesu
 * feature: 
 * * každý start se random někde ubere 100 bodů, může být na více místech v závislosti na logaritmu dat o základě 2
