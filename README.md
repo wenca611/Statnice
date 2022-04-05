@@ -23,15 +23,15 @@
 * | | ...
 
 ## Funguje:
-* Nastavitelný multiple choice otázky s nastavitelným počtem kol.
-### data:
+* Nastavitelný multiple choice otázky s nastavitelným počtem kol, s váhováním i eventuálně s obrázky.
+### data v statnice.txt:
 * ignorují se prázdné řádky, 1 lexém a komenty začínající #
-* pro test jsou určeny 2 a 4 lexémy
+* pro testování jsou určeny 2 nebo 4 lexémy
 * automaticky se převede Q:A => Q:A:0:0
-* jiné počty lexémů jsou chybné !!
+* jiné počty lexémů jsou chybné !! (3,5,6,...)
 * bere obrázky typu jpg od data\ a nakonci nedávát .jpg
 * př.: imgpath = OKO\1 => data\\OKO\\1.jpg
-* \[imgpath\]:\[imgpath2\]:0:0
+* vzor: \[imgpath\]:\[imgpath2\]:0:0
 ### jiné:
 * pro ukončení obrázků stiskněte v obrázku libovolnou klávesu
 * feature: 
@@ -39,9 +39,9 @@
 * * váhováné generování všechny body se zvednou nad 0 a transformují podle 1/(x+1)+1
 
 ## TODO list:
-* jde kombinovat otázka (obrázek) a odpověď (text) nebo opačně, ale ne oboje v jedné části !!!
+* jde kombinovat otázka (obrázek) a odpověď (text) nebo opačně, ale ne oboje v jedné části lexému !!!
 * možnost sdílení státnicových otázek mezi sebou a jiných testů dle předmětu
-* v průběhu testování je otevřen soubor, který při terminaci programu nebo nástání chyby, kterou nechytím smaže data v statnice.txt !!!
+* v průběhu testování je otevřen soubor, který při terminaci programu nebo nástání chyby, kterou nechytím smaže full data v statnice.txt !!!
 * * řešení: překopat program a vícekrát otvírat program bez přepisu a až nakonec s přepisem (moc práce)
 
 ## otázky, doporučení, diskuze a jiné: 
