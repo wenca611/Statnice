@@ -1,5 +1,5 @@
 # Statnice
-* název práce: Testy pro státnice nebo jiné testy
+* název práce: Testovátor 3000
 * autor: Pastušek Václav
 * škola: VUT FEKT
 * rok: 2021/22
