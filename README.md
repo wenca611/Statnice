@@ -6,7 +6,7 @@
 * testeři: Pastušek Václav
 
 ## Upozornění:
-* Lze použít na naučení slovíček do ajiny.
+* Lze použít i na naučení slovíček do ajiny.
 * Toto neslouží jako úplné nahrazení přípravy na testy!!!
 * Není vhodné pro otázky s vícero obrázky/grafy/odpovědí atd.
 
