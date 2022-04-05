@@ -14,7 +14,7 @@
 * ROOT - adresář se vším
 * | statnine.py - jediný hlavní python skript
 * | data
-* | | statnice.txt - data
+* | | statnice.txt - databáze
 * | | OKO - soubory s obrázky, libovolná cesta se zadává do dat
 * | | | jones
 * | | | | 1.jpg - obrázek
