@@ -1,9 +1,21 @@
-# Statnice
+# Testovač 3000
 * název práce: Testovač 3000
 * autor: Pastušek Václav
 * škola: VUT FEKT
 * rok: 2021/22
 * testeři: Pastušek Václav
+
+## Potřeba nainstalovat:
+* Python verze 3.8+
+
+## BAT spuštění:
+* Potřeba nainstalovat opencv-python:
+  1) otevřít příkazový řádek (do vyhledávače napsat: cmd)
+  2) napsat zde: py -m pip install opencv-python
+  3) spustit run.bat
+
+## SH spuštění:
+  1) spustit run.sh
 
 ## Upozornění:
 * Lze použít i na naučení slovíček do ajiny.
