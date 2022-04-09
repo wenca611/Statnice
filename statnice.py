@@ -29,6 +29,7 @@ RESET = False  # POZOR resetuje všechny body a přírustek bodů
 win = Tk()
 SCREEN_X = win.winfo_screenwidth()
 SCREEN_Y = win.winfo_screenheight()
+win.withdraw()
 
 
 def control_lines(lines):
