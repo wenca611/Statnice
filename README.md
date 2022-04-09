@@ -25,6 +25,8 @@
 ## Požadovaná cesta:
 * ROOT - adresář se vším
 * | statnine.py - jediný hlavní python skript
+* | run.sh - otevření programu pro Linux
+* | run.bat - otevření programu pro Windows
 * | data
 * | | statnice.txt - databáze
 * | | OKO - soubory s obrázky, libovolná cesta se zadává do dat
