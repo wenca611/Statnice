@@ -27,17 +27,25 @@
 
 ## Požadovaná cesta:
 * ROOT - adresář se vším
-* | statnine.py - jediný hlavní python skript
-* | run.sh - otevření programu pro Linux
-* | run.bat - otevření programu pro Windows
+* | new_main.py - nový hlavní python skript
+* | old_main.py - starý hlavní python skript
+* | run_new.sh - otevření programu pro Linux
+* | run_new.bat - otevření programu pro Windows
+* | run_old.sh - viz výše, ale pro starší verzi
+* | run_old.bat - viz výše, ale pro starší verzi
 * | data
-* | | statnice.txt - databáze
+* | | statnice.txt - databáze i s odkazy na obrázky
+* | | voc.txt - anglická slovíčka
 * | | OKO - soubory s obrázky, libovolná cesta se zadává do dat
 * | | | jones
 * | | | | 1.jpg - obrázek
 * | | | | ...
 * | | | ...
 * | | ...
+* | .gtignore - ignorování python zbytků při nahrávání na git
+* | spuštění.txt - kdyby jste furt nevědeli, jak skript spustit XD
+* | REDME.md - teď se na něj díváte
+* | LICENSE - licence
 
 ## Funguje:
 * Nastavitelný multiple choice otázky s nastavitelným počtem kol, s váhováním i eventuálně s obrázky.
@@ -52,7 +60,7 @@
 ### jiné:
 * pro ukončení obrázků stiskněte v obrázku libovolnou klávesu
 * feature: 
-* * každý start se random někde ubere 100 bodů, může být na více místech v závislosti na logaritmu dat o základě 2
+* * +- v 10% po startu se random někde ubere 100 bodů, může být na více místech v závislosti na logaritmu dat o základě 2
 * * váhováné generování všechny body se zvednou nad 0 a transformují podle 1/(x+1)+1
 
 ## TODO list:
