@@ -7,6 +7,9 @@
 
 ## Potřeba nainstalovat:
 * Python verze 3.8+
+* https://www.python.org/downloads/
+* nebo Spyder z Anacondy (pozor při instalaci Spyder bez Anacondy, bylo zaznamenáno nestandardní chování IPython terminálu)
+* https://www.anaconda.com/products/distribution
 
 ## BAT spuštění:
 * Potřeba nainstalovat opencv-python:
