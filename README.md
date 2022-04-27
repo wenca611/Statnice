@@ -1,5 +1,5 @@
 # Testovač 3000
-* popis: váhovaný multiple-choice generátor testů i s obrázky(v nové verzi)
+* popis: váhovaný multiple-choice generátor testů i s obrázky (v nové verzi)
 * autor: Pastušek Václav
 * škola: VUT FEKT
 * rok: 2021/22
