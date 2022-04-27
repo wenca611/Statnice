@@ -1,0 +1,7 @@
+Musíte mít nainstalovaný python 3.8+ nebo Spyder z Anacondy viz README.md .
+
+Poté stačí kliknout na run.bat (pro Windows) nebo run.sh (pro Linux) nebo otevřít main.py skript v python IDE.
+U novější verze se pracuje i s obrázky, ale je potřeba importovat nestandardní knihovnu cv2, protože někomu nejede pip install ...,
+tak přikládám i starší verzi, proto run_new nebo run_old. Pokud nejede ani run_old, tak se ozvěte!
+
+Teoreticky v .bat a .sh se může stát, že máte jen python3 a ne python a já to nemám ošetřené, tak to přepište z python -> python3. 

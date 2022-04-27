@@ -1,0 +1,566 @@
+moje basic slovíčka)
+Hello world!:Ahoj světe!:0:0
+cat:kočka:0:0
+dog:pes:0:0
+bird:pták:0:0
+parrot:papoušek:0:0
+fish:ryba:0:0
+goose:husa:0:0
+pen:pero:0:0
+pencil:tužka:0:0
+spring:jaro:0:0
+summer:léto:0:0
+fall/autumn(GB):podzim:0:0
+winter:zima:0:0
+in the spring:na jaře:0:0
+in the summer:v létě:0:0
+in the fall:na podzim:0:0
+in the winter:v zimě:0:0
+I like to go skiing in winter.:Rád jezdím v zimě na lyže.:0:0
+We go on vacation in summer.:V létě jezdíme na dovolenou.:0:0
+Easter is in the spring.:Velikonoce jsou na jaře:0:0
+Spring is my favorite season.:Jaro je moje oblíbené roční období.:0:0
+a winter break:zimní prázdniny:0:0
+a hot summer day:horký letní den:0:0
+month:měsíc (kalendřní):0:0
+Moon:Měsíc:0:0
+January:leden:0:0
+February:únor:0:0
+March:březen:0:0
+April:duben:0:0
+May:květen:0:0
+June:červen:0:0
+July:červenec:0:0
+August:srpen:0:0
+September:září:0:0
+October:říjen:0:0
+November:listopad:0:0
+December:prosinec:0:0
+in January:v lednu:0:0
+in February:v únoru:0:0
+in March:v březnu:0:0
+in April:v dubnu:0:0
+in May:v květnu:0:0
+in June:v červnu:0:0
+in July:v červenci:0:0
+in August:v srpnu:0:0
+in September:v září:0:0
+in October:v říjnu:0:0
+in November:v listopadu:0:0
+in December:v prosinci:0:0
+My birthday is in April.:Mám narozeniny v dubnu.:0:0
+In the Czech Republic, school ends in June and starts again in September.:V ČR škola končí v červnu a opět začíná v září.:0:0
+Children don't go to school in July and August.:Děti nechodí do školy v červenci a srpnu.:0:0
+Christmas is in December.:Vánoce jsou v prosinci.:0:0
+man:muž:0:0
+woman:žena:0:0
+describing:popisování:0:0
+describe:popsat:0:0
+recording:záznam, nahrávání:0:0
+fence:plot, oplocení:0:0
+belt:řemen, opasek:0:0
+comb:hřeben, učesat:0:0
+
+1)
+to use:používat:0:0
+something is used for -ing:používá se pro ...:0:0
+user:uživatel:0:0
+a similar use:podobné použití:0:0
+useful for:užitečné pro:0:0
+to enable to:k tomu aby se:0:0
+to allow to:který by měl umožnit:0:0
+to prevent from:aby se zabránilo:0:0
+to ensure that:aby bylo zajištěno, že:0:0
+to attach:připojit, připevnit:0:0
+to support:na podporu:0:0
+to propel:pohánět:0:0
+to ascend:vystoupit nahoru?:0:0
+to fix:opravit, připevnit:0:0
+to carry:provádět, přenášet, nést:0:0
+carried up:vyneseno nahoru:0:0
+carried out:odneseno, provedeno, uskutečnit:0:0
+carried on:pokračoval (v činnosti):0:0
+to control:ke kontrole:0:0
+to transport:dopravit:0:0
+to connect:připojit:0:0
+to drive:řídit, pohánět:0:0
+to lift:zvednout, nadzvednout, zvedat:0:0
+to link:připojit, spojit:0:0
+to power:elektrifikovat, k napájení:0:0
+to raise:zvýšit, vychovávat, povýšit:0:0
+to permit:povolit:0:0
+enhanced:posílit, zlepšit:0:0
+reducer:redukce:0:0
+eliminate:odstranit:0:0
+conventional:konvenční:0:0
+superior:nadřízený, lepší:0:0
+considerably:značně:0:0
+dramatically:dramaticky:0:0
+entirely:zcela:0:0
+exceptionally:vyjímečně:0:0
+highly:vysoce:0:0
+totally:naprosto:0:0
+
+2)
+aluminium:hliník:0:0
+bronze:bronz:0:0
+copper:měď:0:0
+glass:sklo:0:0
+lead:olovo:0:0
+iron:železo:0:0
+ore:ruda:0:0
+plastic:umělá hmota:0:0
+rubber:guma:0:0
+steel:ocel:0:0
+stainless steel:nerezivějící ocel:0:0
+timber:dřevo:0:0
+hardwood:tvrdé dřevo:0:0
+softwood:měkké dřevo:0:0
+zinc:zinek:0:0
+compounds:sloučeniny:0:0
+exotic:exotický:0:0
+ferrous:železný:0:0
+ceramics:keramika:0:0
+alloy:slitina:0:0
+non-metalic:nekovové:0:0
+polymers:polymery:0:0
+comprise:zahrnout, obsahovat:0:0
+consist of:sestávat:0:0
+made from:vyrobeno z [materiálu, plast z ropy, masivně vyráběno, manufaktury]:0:0
+made of:vyrobeno z [běžné materiály, řetízek ze stříbra, stůl]:0:0
+made out of:vyrobeno z [přetvořit něco na něco nové]:0:0
+made with:vyrobeno z [hlavně u jídel]:0:0
+insulation:izolace:0:0
+waterproof membrane:voděodolná membrána:0:0
+outer jacket:vnější plášť:0:0
+armoured protection:pancéřová ochrana:0:0
+conductor:vodič:0:0
+toughness:tvrdost, odolnost:0:0
+abrasion resistance:odolnost proti oděru:0:0
+thermal stability:tepelná stabilita:0:0
+durable:odolný:0:0
+light weight:nízká hmotnost:0:0
+drive belts:hnací řemeny:0:0
+brake pads:brzdové destičky:0:0
+tyres:pneumatiky:0:0
+sealing gaskets:těsnění:0:0
+bullet-resistant armour:neprůstřelná vesta:0:0
+obviously:samozřejmě:0:0
+scratch rezistance:odolnost proti poškrábání:0:0
+tough:tuhý:0:0
+fairly:docela, spravedlivě:0:0
+pretty:pěkný:0:0
+insufficiently:nedostatečně:0:0
+relatively:poměrně:0:0
+tremendously:ohromně:0:0
+non adequately:ne přiměřeně:0:0
+not (all) that:ne (vše) co:0:0
+
+3)
+circular:kruhový:0:0
+rounded:zaoblený:0:0
+rectangular:obdelníkový:0:0
+cylindrical:cylindrický:0:0
+linear:přímočarý:0:0
+triangular:trojúhelníkový:0:0
+flush with:v jedné rovině s, zčervenat:0:0
+groove:drážka:0:0
+hole:otvor:0:0
+pin:kolík:0:0
+recess:výklenek, prohlubeň:0:0
+ridge:hřeben, výčnělek(plastový):0:0
+set back:překazit, pozastavit:0:0
+drilling:vrtání:0:0
+flame-cutting:řezání plamenem/ohněm:0:0
+milling:frézování:0:0
+sawing:řezání:0:0
+shearing:stříhání:0:0
+abrasive wheel:brusný kotouč:0:0
+guillotine:řezačka:0:0
+hole-saw:děrovačka:0:0
+kerb:zářez:0:0
+punch:vrták, rána pěstí:0:0
+toothed blade:ozubená čepel:0:0
+angular:hranatý:0:0
+blind holes:slepé otvory:0:0
+curved:zakřivený:0:0
+large:rozlehlý, velký:0:0
+small:malé:0:0
+straight:rovný:0:0
+thick:tlustý:0:0
+thin:hubený:0:0
+through holes:průchozí otvory:0:0
+brittle:křehký:0:0
+narrow kerfs:úzká řezná spára:0:0
+smooth edges:hladké hrany:0:0
+heat-affected zone:tepelně ovlivněná zóna:0:0
+timber=dřevo
+bolt:šroub, sešroubovat:0:0
+screw:šroub, šroubovat:0:0
+rivet:nýt, nýtovat:0:0
+clip:svorka:0:0
+weld:svár, svářet:0:0
+adhesive:lepidlo:0:0
+bonding:spojit, slepit, svázat:0:0
+gluing:lepení:0:0
+joining:spojit:0:0
+fixing:připevnění:0:0
+above:výše:0:0
+beneath:pod, vespod:0:0
+within:kromě:0:0
+
+4)
+cross-section:průřez:0:0
+elevation:nadmořská výška:0:0
+exploded view:roložený pohled/zobrazení(na součástky):0:0
+note:poznámka:0:0
+plan:plánovat, projekt:0:0
+schematic:schématický:0:0
+specification:specifikace:0:0
+accept:přijmout:0:0
+amend:pozměnit:0:0
+approximate:přibližný:0:0
+circulate:obíhat:0:0
+replace:nahradit:0:0
+state:uvést, vyjádřit:0:0
+solve:vyřešit:0:0
+specify:specifikovat:0:0
+issue:problém, vydat:0:0
+rough:hrubý:0:0
+revise:revidovat:0:0
+supersede:nahradit, vyměnit:0:0
+advice:radit:0:0
+clarify:objasnit:0:0
+clash:srážka:0:0
+propose:navrhnout:0:0
+request:žádost:0:0
+alternative:alternativní:0:0
+as per:podle:0:0
+confirm:potvrdit:0:0
+contradicts:popírat, odporovat:0:0
+discrepancy:nesoulad, rozpor:0:0
+
+5)
+heat:teplo:0:0
+pressure:tlak:0:0
+vibration:chvění:0:0
+shocks:otřesy:0:0
+abrasion:otěr, abraze, obrušování:0:0
+chassis:podvozek:0:0
+engine:motor:0:0
+gearbox and clutch:převodovka a spojka:0:0
+suspension:zavěšení, tlumiče, pozastavení, suspendování:0:0
+brakes:brzdy:0:0
+tyres=pneumatiky
+wings:křídla:0:0
+cooling system:chladící systém:0:0
+nuts and bolts:matice a šrouby:0:0
+bend:ohyb:0:0
+blocking:blokování:0:0
+crack:trhlina, prasklina:0:0
+jam:ucpat, rušit:0:0
+snap:prasknutí, uzávěr:0:0
+blow up:vybuchnout:0:0
+clog up:ucpat:0:0
+cut out:vystřihnout:0:0
+leaking out:vytéct, uniknout:0:0
+run out:vyčerpat, vyběhnout:0:0
+worked loose:uvolnilo se:0:0
+defect:vada:0:0
+fault:porucha, vina:0:0
+intermittently:nepravidelně, přerušovaně:0:0
+major:hlavní:0:0
+minor:vedlejší:0:0
+properly:správně:0:0
+systematically:systematicky:0:0
+in_correct:ne_správný:0:0
+undersized:příliš malý:0:0
+in_adequate:ne_adekvatní:0:0
+un_detected:ne_zjištěný:0:0
+ab_normal:ne_normální:0:0
+in_sufficient:ne_dostatečný:0:0
+dis_proportionate:ne_přiměřen(ý,ě):0:0
+ir_regular:ne_pravidelný:0:0
+im_balance:ne_rovnováha:0:0
+mal_function:selhání funkce, ne_funkčnost:0:0
+in_operable:nefunkční, neprovozuschopný, ne_operovatelný:0:0
+broken:zlomený:0:0
+clogged:ucpaný:0:0
+defective:vadný, defektní:0:0
+faulty:vadný, špatný, poruchový:0:0
+adjust:upravit, přizpůsobit, nastavit:0:0
+drain:vypustit, odtok:0:0
+disconnect:odpojit:0:0
+dismontle:demontovat:0:0
+examine:zkoumat:0:0
+#replace:nahradit:0:0
+reconnect:znovu připojit:0:0
+service:služba:0:0
+tighten:napnout:0:0
+top up:dolít, doplnit, dovršit:0:0
+
+6)
+budget:rozpočet:0:0
+capacity:kapacita:0:0
+dimensions:rozměry:0:0
+layout:rozložení, uspořádání, nákres, dispozice:0:0
+looks:vzhled:0:0
+performance:výkon, představení, provedení:0:0
+regulations:předpisy:0:0
+timescale:časový rámec:0:0
+concerned:znepokojený, zaujatý, zainteresovaný:0:0
+regard:ohled, považovat, posuzovat:0:0
+regarding:týkající se, ohledně:0:0
+regards:pozdravy:0:0
+with regards to:s ohledem na:0:0
+terms:podmínky:0:0
+bar:zatarasit, tyč:0:0
+drill:vrtačka, vrtat:0:0
+friction:tření:0:0
+a grab:urvat:0:0
+horizontal:vodorovný:0:0
+lifting eyes:závěsná oka:0:0
+resin:pryskyřice:0:0
+vertical:svislý:0:0
+cost:náklady, stát, cena:0:0
+precision:přesnost:0:0
+borderline:hranice:0:0
+it's borderline:je to na hranici:0:0
+forever:navždy:0:0
+it'll take forever:bude to trvat věčnost, potrvá to věčnost:0:0
+leg:noha:0:0
+it'll cost an arm and a leg:bude to stát hodně peněz:0:0
+painstaking:pečlivý, usilovný:0:0
+it'll be quite a painstaking job:bude to docela náročná(s pečlivostí) práce:0:0
+peanuts:arašídy:0:0
+it'll cost peanuts:bude to stát malé množství peněz:0:0
+perfectly:dokonale, naprosto:0:0
+it's perfectly feasible:je to dokonale proveditelné:0:0
+stretching:strečink, protahovaní(jít dál než je současný stav):0:0
+it's achievable, but it's stretching:je to dosažitelné, ale je to težší(jít dál než je současný stav):0:0
+tall:vysoký:0:0
+it's a tall order:je to veliký úkol:0:0
+way:cesta:0:0
+there's no way you can do it:v žádném případě to nemůžete udělat:0:0
+cables:kabely:0:0
+connections:spojení:0:0
+case:pouzdro:0:0
+ink/toner cartridges:inkoustové/tonerové kazety:0:0
+paper:papír:0:0
+power:síla:0:0
+software:softvér, programové vybavení:0:0
+improve overall:zlepšit celkově:0:0
+improve the details:zlepšit detaily:0:0
+story:příběh, vyprávění:0:0
+reinvent:znovu objevit/vynalézt:0:0
+quantum:množství, kvantum:0:0
+scratch:škrábanec:0:0
+ball:balón:0:0
+buttons:tlačítka:0:0
+
+7)
+confined spaces:v uzavřených prostorách:0:0
+CO2 detector:CO2 detektor:0:0
+exposure:expozice:0:0
+irritant:dráždivý:0:0
+toxic:toxický:0:0
+corrosive:korozivní, leptavý:0:0
+flammable:hořlavý:0:0
+non-flammable:nehořlavý:0:0
+naked flames/spark:otevřený plamen/jiskra:0:0
+gloves:rukavice:0:0
+ear protection:ochrana uší:0:0
+it's crucial:je to zásadní:0:0
+it's essential:je to nezbytné:0:0
+preferable:vhodnější:0:0
+it's vital:je to životně důležité:0:0
+at all times:za všech okolností:0:0
+every single:každý:0:0
+under no circumstances:za žádných okolností:0:0
+legislation:legislativa:0:0
+obligations:závazky:0:0
+compulsory:povinný, nucený:0:0
+prohibited:zakázáno:0:0
+permitted:povoleno:0:0
+contravene:v rozporu, odporovat:0:0
+comply with:v souladu s:0:0
+stipulated:stanoveno, vyhrazeno:0:0
+requirements:požadavky:0:0
+
+8)
+detect:detekovat:0:0
+detector:detektor:0:0
+pick up:zvednout:0:0
+reading:čtení:0:0
+regulate:regulovat:0:0
+set off:vyrazit:0:0
+trigger:spoušť:0:0
+measurement:měření:0:0
+input:vstup:0:0
+output:výstup:0:0
+optimum:optimální:0:0
+differential:rozdíl:0:0
+consumtion:spotřeba:0:0
+cumulative:souhrnný, kumulativní:0:0
+rate:hodnotit, sazba, míra:0:0
+cycle:cyklus:0:0
+frequency:frekvence:0:0
+timescale=časový rámec
+decrease:snížení:0:0
+fall:upadnout, klesání, pád:0:0
+increase:zvýšení:0:0
+rise:stoupat:0:0
+continuous:nepřetržitý, kontinuální:0:0
+fluctuations:kolísající:0:0
+peaks and troughs:vrcholy a žlaby:0:0
+peak demand:vrchol poptávky:0:0
+range:rozsah:0:0
+band of fluctuations:pásmo výkyvů:0:0
+blips:tečky:0:0
+continual:nepřetržitý:0:0
+gravity:gravitace:0:0
+high level:na vysoké úrovni:0:0
+low level:nízká úroveň:0:0
+mountain:kopec:0:0
+pump:čerpadlo:0:0
+reservoir:nádrž:0:0
+turbines:turbíny:0:0
+
+9)
+the acid test:zkouška kyselosti/důležitá:0:0
+back-to-back testing:porovnávací/srovnávací testování(pro komponenty s podobnou funkčností):0:0
+in the field:v oblasti:0:0
+mock-up:maketa:0:0
+trial run:zkušební provoz(test):0:0
+tried-and-tested:osvědčený:0:0
+validate:potvrdit, ověřit:0:0
+virtual:virtuální:0:0
+because of:kvůli:0:0
+caused:způsobené:0:0
+consequently:tedy, v důsedku, tudíž, proto:0:0
+due to:kvůli, vzhledem k - situation+___+cause->result:0:0
+owing to:kvůli, vzhledem k, díky čemu - situation+result+___->cause:0:0
+result in:mít za následek:0:0
+result of:výsledkem:0:0
+bending:ohýbání:0:0
+centrifugal force:odstředivá síla:0:0
+compression:komprese, stlačení:0:0
+contraction:kontrakce:0:0
+expansion:rozšíření:0:0
+#friction:tření:0:0
+#pressure:tlak:0:0
+shear:střih:0:0
+tension:napětí:0:0
+torsion/torque:torzní/točivý moment:0:0
+
++)
+underestimated:podceňovat:0:0
+blew up:vybouchl:0:0
+amount:množství, suma:0:0
+expected:očekávaný:0:0
+overfilled:přeplněný:0:0
+reply:odpovědět:0:0
+wreckage:vrak, trosky:0:0
+fuselage:trup letadla:0:0
+descend:sestoupit:0:0
+motion:pohyb:0:0
+airway:dýchací cesty:0:0
+board:paluba:0:0
+mid-air:ve(uprostřed) vzuchu:0:0
+sole:jediný, podrážka, chodidlo, šlapka:0:0
+descent:klesání, sestup:0:0
+tail:ocas:0:0
+aviation:letectví:0:0
+pothole:výmol:0:0
+overestimate:přeceňovat:0:0
+assess:posoudit, odhadnout, ocenit, vyměřit:0:0
+determine:určit, stanovit, zjistit:0:0
+to bend, bent, bent:ohnout, ohýbat:0:0
+to clog up:ucpat, překážet:0:0
+to leak out:unikat, prosakovat:0:0
+to run out:dojít, nemít, vyčerpat:0:0
+to snap:prasknout:0:0
+to work loose:uvolnit se:0:0
+to tighten:utáhnout:0:0
+to wear out, wore, worn:opotřebovat se:0:0
+to jam:zaseknout se (šroub):0:0
+
+
+HFE - Listening.Jobs)
+take-off:vzlet, start:0:0
+a pilot:pilot:0:0
+during:během, v průběhu:0:0
+exciting:vzrušující, zajímavé:0:0
+thing:věc:0:0
+being:být, je:0:0
+what:co, jaké:0:0
+beautiful:krásný:0:0
+hearing:slyšení, poslech, naslouchání:0:0
+view:zobrazit, zobrazení:0:0
+challenging:náročné, výzva:0:0
+think:myslet, přemýšlet:0:0
+about:o:0:0
+interacting:interakce:0:0
+with:s:0:0
+person:osoba:0:0
+people:lidé:0:0
+landing:přistání:0:0
+the airplane:letadlo:0:0
+hour(s):hodin(a/y):0:0
+noise:hluk, šum:0:0
+free:zdarma, bezplatně, volný:0:0
+being free to walk:svobodně chodit:0:0
+the quiet of the classroom:ticho(klid) ve třídě:0:0
+quiet:tichý, klid:0:0
+the salary:plat, mzda:0:0
+similar:podobné:0:0
+job:práce, pracovní místo:0:0
+
+
+HFE - Listening - Definitions #2
+ring:prsten, prstýnek:0:0
+kind:druh, laskavý:0:0
+gold:zlat(o,ý):0:0
+camera:kamera, foťák, fotoaparát:0:0
+bottle:láhev, plnit do lahví:0:0
+clock:hodiny:0:0
+wallet:peněženka:0:0
+money:peníze:0:0
+
+jiné)
+truncate:zkrátit, ořezat:0:0
+point:bod, poukazovat, tečka:0:0
+definition:definice:0:0
+consequence:následek:0:0
+stipulate:sjednat, ujednat:0:0
+comprising:obsahující, zahrnující:0:0
+a back-up copy:záložní kopie:0:0
+abacus:počitadlo:0:0
+a bad egg:zkažené vejce, výlupek všech nectností:0:0
+a bad taste in my mouth:mít špatný pocit, tušit něco zlého:0:0
+a bad time:nedostatek času, pozdě:0:0
+abandoned child:opuštěné dítě:0:0
+abandoned industrial site:opuštěné průmyslové místo:0:0
+abandoned person:opuštěná osoba:0:0
+abandoned ship:opuštěná loď:0:0
+abandoned vehicle:opuštěné vozidlo:0:0
+abandoning:opouštějící, opouštění:0:0
+abandonment:opuštění, opuštěná budova:0:0
+abandon to:oddat se:0:0
+a bare-faced lie:úmyslná lež:0:0
+a bar fly:barovej povaleč:0:0
+a barrel of laughs:velká zábava, hromada srandy:0:0
+a bar star:barová holka:0:0
+space:místo, vesmír, prostranství, mezera, prostor:0:0
+spacebar:mezerník:0:0
+bulky:objemný, neskladný:0:0
+within the fibre:uvnitř vlákna:0:0
+through:skrz, přes:0:0
+translate into:přeložit do (z plánu do praxe):0:0
+bring up:vychovat, předložit, přivést nahoru:0:0
+environment:životní prostředí:0:0
+cope with:vyrovnat se s:0:0
+
+
+
+
