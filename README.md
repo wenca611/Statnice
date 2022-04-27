@@ -3,7 +3,7 @@
 * autor: Pastušek Václav
 * škola: VUT FEKT
 * rok: 2021/22
-* testeři: Pastušek Václav
+* testeři: Pastušek Václav, Petr Medek
 
 ## Potřeba nainstalovat:
 * Python verze 3.8+
