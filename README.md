@@ -12,7 +12,7 @@
 * https://www.anaconda.com/products/distribution
 
 ## BAT spuštění:
-* Potřeba nainstalovat opencv-python:
+* Potřeba nainstalovat opencv-python pro novou verzi, pro starou ne (skip na bod 3):
   1) otevřít příkazový řádek (do vyhledávače napsat: cmd)
   2) napsat zde: py -m pip install opencv-python
   3) spustit run.bat
