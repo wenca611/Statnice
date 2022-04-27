@@ -69,5 +69,6 @@
 * v průběhu testování je otevřen soubor, který při terminaci programu nebo nástání chyby, kterou nechytím smaže full data v statnice.txt !!!
 * * řešení: překopat program a vícekrát otvírat program bez přepisu a až nakonec s přepisem (moc práce)
 
-## otázky, doporučení, diskuze a jiné: 
+## YT, otázky, doporučení, diskuze a jiné:
+* https://www.youtube.com/channel/UC9r0edjX9d8riV0OkaP7Cow
 * https://docs.google.com/document/d/1pS1C7GzmWBDG4wQL8p9XjimN5QFL6Xd9b8NFtWrB_Wo/edit?usp=sharing
