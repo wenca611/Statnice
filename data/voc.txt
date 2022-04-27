@@ -179,7 +179,7 @@ abrasive wheel:brusný kotouč:0:0
 guillotine:řezačka:0:0
 hole-saw:děrovačka:0:0
 kerb:zářez:0:0
-punch:vrták, rána pěstí:0:0
+punch:vrták, rána pěstí:-1:-1
 toothed blade:ozubená čepel:0:0
 angular:hranatý:0:0
 blind holes:slepé otvory:0:0
@@ -297,7 +297,7 @@ examine:zkoumat:0:0
 reconnect:znovu připojit:0:0
 service:služba:0:0
 tighten:napnout:0:0
-top up:dolít, doplnit, dovršit:0:0
+top up:dolít, doplnit, dovršit:-1:-1
 
 6)
 budget:rozpočet:0:0
@@ -523,7 +523,7 @@ kind:druh, laskavý:0:0
 gold:zlat(o,ý):0:0
 camera:kamera, foťák, fotoaparát:0:0
 bottle:láhev, plnit do lahví:0:0
-clock:hodiny:0:0
+clock:hodiny:1:1
 wallet:peněženka:0:0
 money:peníze:0:0
 

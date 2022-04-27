@@ -14,13 +14,13 @@ Creation date = 2021/22
 pro ukončení obrázků stiskněte v obrázku libovolnou klávesu
 
 zkouška)
-hello:ahoj:-99:1
-world:svět:-99:1
+hello:ahoj:0:0
+world:svět:1:1
 1+2:2+1:3:2
 
 OKO)
 Jonesovy vektory)
-lineární polarizace ve směru x:[OKO\jones\1]:0:0
+lineární polarizace ve směru x:[OKO\jones\1]:-1:-1
 lineární polarizace ve směru y:[OKO\jones\2]:0:0
 levotočivá kruhová polarizace:[OKO\jones\3]:0:0
 pravotočivá kruhová polarizace:[OKO\jones\4]:0:0

@@ -272,8 +272,8 @@ Vítejte v alfa verzi programu
     image_index_A = []
     image_list_A = []
 
-    # random ubrání bodů XD, pro zopakování i otázek s více body
-    if len(data):
+    # random ubrání bodů v 25% XD, pro zopakování i otázek s více body
+    if len(data) and rn.randint(0, 3) == 3:
         bad_repeat = math.ceil(math.log(len(data)+1))
         for _ in range(bad_repeat):
             points = data[rn.randint(0, len(data)-1)][3]
@@ -282,7 +282,7 @@ Vítejte v alfa verzi programu
     if len_data:  # 1 nebo více otázek
         # bodová váha
         points_weight = [int(elem[3]) for elem in data]
-        print(points_weight, 69)
+        # print(points_weight, 69)
         # vybrání otázek a odpovědí
         QA_data = [[elem[1], elem[2]] for elem in data]
         # váhovaný náhodný generátor
