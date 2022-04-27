@@ -60,7 +60,7 @@
 ### jiné:
 * pro ukončení obrázků stiskněte v obrázku libovolnou klávesu
 * feature: 
-* * +- v 10% po startu se random někde ubere 100 bodů, může být na více místech v závislosti na logaritmu dat o základě 2
+* * +- v 25% po startu se random někde ubere 100 bodů, může být na více místech v závislosti na logaritmu dat o základě 2
 * * váhováné generování všechny body se zvednou nad 0 a transformují podle 1/(x+1)+1
 
 ## TODO list:
