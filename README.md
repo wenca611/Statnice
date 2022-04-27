@@ -11,13 +11,13 @@
 * nebo Spyder z Anacondy (pozor při instalaci Spyder bez Anacondy, bylo zaznamenáno nestandardní chování IPython terminálu)
 * https://www.anaconda.com/products/distribution
 
-## BAT spuštění:
+## BAT spuštění (Windows):
 * Potřeba nainstalovat opencv-python pro novou verzi, pro starou ne (skip na bod 3):
   1) otevřít příkazový řádek (do vyhledávače napsat: cmd)
   2) napsat zde: py -m pip install opencv-python
   3) spustit run.bat
 
-## SH spuštění:
+## SH spuštění (Linux):
   1) spustit run.sh
 
 ## Upozornění:
