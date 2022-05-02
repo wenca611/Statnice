@@ -6,6 +6,12 @@
 * testeři: Pastušek Václav, Petr Medek
 
 ## Potřeba nainstalovat:
+* Aktuálně nejlepší stáhnout jen Anacondu(odkaz nížeú a ona nainstaluje Spyder
+* dál dole vpravo napsat: pip install tk
+* počkat na instalaci
+* poté: pip install opencv-python
+* počkat a už by to mělo vše jet po vybrání souboru new_main.py a spuštění
+* 
 * Python verze 3.8+
 * https://www.python.org/downloads/
 * nebo Spyder z Anacondy (pozor při instalaci Spyder bez Anacondy, bylo zaznamenáno nestandardní chování IPython terminálu)
