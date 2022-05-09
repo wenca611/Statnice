@@ -3,28 +3,32 @@
 * autor: Pastušek Václav
 * škola: VUT FEKT
 * rok: 2021/22
-* testeři: Pastušek Václav, Petr Medek
+* testeři: Pastušek Václav, Petr Medek, Ondra Rýšavý
 
 ## Potřeba nainstalovat:
 * Aktuálně nejlepší stáhnout jen Anacondu(odkaz níže) a ona nainstaluje Spyder
-* dál dole vpravo napsat: pip install tk
+* https://www.anaconda.com/products/distribution
+* dál dole vpravo v terminálu napsat: pip install tk
 * počkat na instalaci
 * poté: pip install opencv-python
 * počkat a už by to mělo vše jet po vybrání souboru new_main.py a spuštění
-* 
+* v případě obrázků se první objeví za Spyderem, tak na něj kliknout a enterem zavřít
+* !!nejede to paralelně, takže dokud se nezavřou všechny obrázky(klávesou enterem/křížkem), tak program čeká 
+* pokud chcete otvírat jiný TXT soubor, tak v kódu musíte změnit cestu FILEPATH
+*
+* Ignorujte(avšak taky funguje):
 * Python verze 3.8+
-* https://www.python.org/downloads/ <- ignorujte
-* nebo Spyder z Anacondy (pozor při instalaci Spyder bez Anacondy, bylo zaznamenáno nestandardní chování IPython terminálu)
-* https://www.anaconda.com/products/distribution
+* https://www.python.org/downloads/
+* !!pozor při instalaci Spyder bez Anacondy, bylo zaznamenáno nestandardní chování IPython terminálu!!
+
 
 ## BAT spuštění (Windows):
 * Potřeba nainstalovat opencv-python pro novou verzi, pro starou ne (skip na bod 3):
   1) otevřít příkazový řádek (do vyhledávače napsat: cmd)
-  2) napsat zde: py -m pip install opencv-python
-  3) spustit run.bat
+  2) spustit run_old.bat
 
 ## SH spuštění (Linux):
-  1) spustit run.sh
+  1) spustit run_old.sh
 
 ## Upozornění:
 * Lze použít i na naučení slovíček do ajiny.
@@ -74,6 +78,7 @@
 * možnost sdílení státnicových otázek mezi sebou a jiných testů dle předmětu
 * v průběhu testování je otevřen soubor, který při terminaci programu nebo nástání chyby, kterou nechytím smaže full data v statnice.txt !!!
 * * řešení: překopat program a vícekrát otvírat program bez přepisu a až nakonec s přepisem (moc práce)
+* GUI, za to mi nikdo neplatí XD
 
 ## YT, otázky, doporučení, diskuze a jiné:
 * https://www.youtube.com/channel/UC9r0edjX9d8riV0OkaP7Cow
