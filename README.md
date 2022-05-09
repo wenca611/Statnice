@@ -8,13 +8,15 @@
 ## Potřeba nainstalovat:
 * Aktuálně nejlepší stáhnout jen Anacondu(odkaz níže) a ona nainstaluje Spyder
 * https://www.anaconda.com/products/distribution
+* Vyhledat a spustit Spyder(pokud jste stáhli Spyder bez Anacondy, tak tam nemusí fungovat pip pro instalaci!!)
 * dál dole vpravo v terminálu napsat: pip install tk
-* počkat na instalaci
+* počkat na instalaci(musí tam být napsané complete)
 * poté: pip install opencv-python
-* počkat a už by to mělo vše jet po vybrání souboru new_main.py a spuštění
-* v případě obrázků se první objeví za Spyderem, tak na něj kliknout a enterem zavřít
+* počkat a už by to mělo vše, pak už jen vybrat stáhnutý python skript new_main.py a spustit
+* v případě obrázků se první obrázek objeví za Spyderem, tak na něj kliknout a enterem zavřít, ostatní už se budou vytvářet před ním
 * !!nejede to paralelně, takže dokud se nezavřou všechny obrázky(klávesou enterem/křížkem), tak program čeká 
 * pokud chcete otvírat jiný TXT soubor, tak v kódu musíte změnit cestu FILEPATH
+* V TXT datech je první číslo body, pokud chcete mít na 99.9% jen část otázek, tak změnte u nich body na -10000
 *
 * Ignorujte(avšak taky funguje):
 * Python verze 3.8+
@@ -71,7 +73,7 @@
 * pro ukončení obrázků stiskněte v obrázku libovolnou klávesu
 * feature: 
 * * +- v 25% po startu se random někde ubere 100 bodů, může být na více místech v závislosti na logaritmu dat o základě 2
-* * váhováné generování všechny body se zvednou nad 0 a transformují podle 1/(x+1)+1
+* * váhováné generování lineární klesající funkce
 
 ## TODO list:
 * jde kombinovat otázka (obrázek) a odpověď (text) nebo opačně, ale ne oboje v jedné části lexému !!!
@@ -79,6 +81,7 @@
 * v průběhu testování je otevřen soubor, který při terminaci programu nebo nástání chyby, kterou nechytím smaže full data v statnice.txt !!!
 * * řešení: překopat program a vícekrát otvírat program bez přepisu a až nakonec s přepisem (moc práce)
 * GUI, za to mi nikdo neplatí XD
+* Výběr dat z TXT
 
 ## YT, otázky, doporučení, diskuze a jiné:
 * https://www.youtube.com/channel/UC9r0edjX9d8riV0OkaP7Cow
