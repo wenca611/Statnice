@@ -81,7 +81,7 @@
 * v průběhu testování je otevřen soubor, který při terminaci programu nebo nástání chyby, kterou nechytím smaže full data v statnice.txt !!!
 * * řešení: překopat program a vícekrát otvírat program bez přepisu a až nakonec s přepisem (moc práce)
 * GUI, za to mi nikdo neplatí XD
-* Výběr dat z TXT
+* Výběr dat z TXT, aktuálně lze obejít zakomentování zbytku, nebo změnou bodů u dat na nízká čísla (okolo -10000) a ty se budou na 99,5% vyskytovat
 
 ## YT, otázky, doporučení, diskuze a jiné:
 * https://www.youtube.com/channel/UC9r0edjX9d8riV0OkaP7Cow
