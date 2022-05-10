@@ -47,16 +47,16 @@ Zářivý tok/optický výkon(jednotky):J/s = W:-10000:21
 Zářivost(výkon na kouli):Ie=ΔΦe/ΔΩ=ΔP/ΔΩ:-10000:8
 Zářivost(jednotky):W/sr:-10000:5
 Hustota zářivého toku/optická intenzita(výkon na ploše):Je=ΔΦe/ΔS=ΔP/ΔS:-10000:22
-Hustota zářivého toku/optická intenzita(jednotky):W/m²:-10000:20
+Hustota zářivého toku/optická intenzita(jednotky):W/m²:-9960:40
 Fotometrické veličiny[oko]:Světelný tok, svítivost, osvětlení:-10000:9
-Fotometrické veličiny(jetnotky):lm, cd, lx:-10000:35
+Fotometrické veličiny(jetnotky):lm, cd, lx:-9930:70
 Světelný tok(světelný výkon svítidel):Φ:-10000:11
 Světelný tok(jednotky):lm:-10000:26
 Svítivost(tok na kouli):I=ΔΦ/ΔΩ:-10000:7
-Svítivost(jednotky):cd:-10000:22
+Svítivost(jednotky):cd:-9956:44
 Osvětlení(tok na ploše) :E=ΔΦ/ΔS:-10000:11
 Osvětlení(jednotky):lx:-10000:14
-Optické komunikační spektrum:VIS, IR, UV:-10000:39
+Optické komunikační spektrum:VIS, IR, UV:-9922:78
 UV:10-400nm:-10000:10
 Druhy UV:UVA, UVB, UVC:-10000:24
 VIS:400-700nm (380-760nm):-10000:45
@@ -64,7 +64,7 @@ IR:750nm-1mm(near, mid 2.5-10μm, far):-10000:5
 Near IR:750nm-2.5μm:-10000:28
 Mid IR:2.5-10μm:-10000:38
 Far IR:10μm-1mm:-10000:11
-Dělení optických komunikačních systémů:Vlnová délka/Přenosová rychlost/Směrovost/Dosah/Směr komunikace/Mobilita/Provoz/Přenosové médium/Místo provozu/Viditelnost:-10000:10
+Dělení optických komunikačních systémů:Vlnová délka/Přenosová rychlost/Směrovost/Dosah/Směr komunikace/Mobilita/Provoz/Přenosové médium/Místo provozu/Viditelnost:-9989:11
 Výhody optických komunikací:+přenosové rychlosti, +časová dostupnost, odolnost proti EM, bezlicenční pásmo, OBS-fast install, OVS-nezávislý na okolí:-10000:1
 Nevýhody optických komunikací:jen vybrané vlnové délky, nastavení optiky, opatrnost při manipulaci s laserem, často dražší, OBS-meteorologické podmínky, OVS-výkopové práce:-10000:1
 Gaussův svazek:generovaný optickým zdrojem:-10000:0
@@ -77,12 +77,12 @@ Besselovský svazek:Transformace z Gaussova svazku axiconem, nedifraktivní svaz
 Besselovský svazek(vznik):z Gaussova svazku skrz Axicon->sinc vlna:-10000:0
 
 2)
-Difrakce optického záření:odklon přimočarého šíření optických vln(NE odraz a lom):-10000:3
-Dielektrická prostřední(vztah mezi polariz. a intenz.el.pole):(ne)homogenní, (an)izotropní, (ne)lineární, ne(disperní):-10000:2
+Difrakce optického záření:odklon přimočarého šíření optických vln(NE odraz a lom):-9996:4
+Dielektrická prostřední(vztah mezi polariz. a intenz.el.pole):(ne)homogenní, (an)izotropní, (ne)lineární, ne(disperní):-9997:3
 Lineární prostředí:vektor polarizace závisí lineárně na vektoru intenzity elektr.pole:-10000:1
 Nedisperzní prostředí:odezva optic.signálu v prostředí je okamžitá:-10000:3
 Homogenní prostředí:vztah mezi vektorem polariz. a vekt. intenzity elektr. pole nezávisí na prostorových souřadnicích:-10000:-1
-Izotropní prostředí:vztah mezi vektorem polariz. a vekt. intenziry elektr. pole nezávisí na směru vektoru intenzity ||:-10000:-1
+Izotropní prostředí:vztah mezi vektorem polariz. a vekt. intenzity elektr. pole nezávisí na směru vektoru intenzity ||:-10000:0
 Polarizace optického záření:fyzikální jev elmag. složky s jistými zákonitostmi:-10000:3
 Polarizace optického záření(typy):kruhová, lineární, eliptická:-10000:6
 Kruhová polarizace:Δϕ=ϕ₁-ϕ₂=(2n-1)π/2, A₁=A₂:-10000:3
@@ -94,10 +94,10 @@ Vlnová destička(fázová):optické zařízení, které mění polarizaci svět
 Vlnová destička(typy):půlvlnná(mění směr lin. pol.), čtvrtvlnná(mění lin. pol. <=> kruhovou pol.):-10000:0
 Vlnová destička(využití):materiál polaroid, sluneční brýle(sklo aut), polarizační filtry(LCD):-10000:1
 Časová a prostorová koherence optických vln:určuje míru koherene:-10000:2
-Interferenční člen(stupeň koherence):γ₁₂, 1<=γ₁₂<=1:-10000:2
+Interferenční člen(stupeň koherence):γ₁₂, 1<=γ₁₂<=1:-9997:3
 Interference:skládání koherentních optických vln od n opt. zdrojů:-10000:3
 Fabryův–Perotův interferometr:rezonátor, sestaven ze 2 polopropustných paralelně uložených zrcadel:-10000:2
-Fabryův–Perotův interferometr(použití):filtr nežádoucích složek spektra(+rezonátor):-10000:3
+Fabryův–Perotův interferometr(použití):filtr nežádoucích složek spektra(+rezonátor):-9996:4
 
 3)
 Materiály v optice:α-BBO, BaF₂, CaCO₃, CaF₂, F2, Ge, MgF₂, N-BK7, N-SF11, TiO₂, Al₂O₃, Si, PTFE, UV Fused Silica, ZnSe:0:0

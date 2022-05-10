@@ -374,7 +374,7 @@ Vítejte v alfa verzi programu
             gain = int(choosen_line[4])
             if c_flag:  # správně
                 if gain < 1e7:
-                    if gain > 10:
+                    if gain > 10 and int(choosen_line[3]) < 0:
                         gain *= 2
                     else:
                         gain += 1
