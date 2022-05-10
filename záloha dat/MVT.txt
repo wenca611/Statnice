@@ -1,0 +1,139 @@
+MVT)
+1)
+Čím se zabývá mikrovlnná technika?:používaná technika 300MHz-300GHz(1mm-1m)
+VHF(Very High Frequency):30-300MHz, m vlny, N=8
+UHF(Ultra High Frequency):300MHz-3GHz, dm vlny, N=9
+SHF(Super High Frequency):3-30GHz, cm vlny, N=10
+EHF(Extremly High Frequency):30-300GHz, mm vlny, N=11
+Obvod se soustředěnými parametry:velikost l<λg zpracovaného signálu, Δϕ=0, 
+Obvod se soustředěnými parametry(případ l<<λg):obvod=kvazistacionární systém, geometrie=0, v=∞
+Obvod se soustředěnými parametry(příklad):mikrovln. obvody, monolitický intergrovaný nízkošumový zesilovač 5.8GB
+Obvod s rozloženými/nesoustř. parametry:l≥λg zpracovaného signálu
+Obvod s rozloženými parametry(l≈λg):závisí na čase a prostoru, ->typické pro pásma mikrovln<-
+Obvod s rozloženými parametry(příklad):VMIO, HMIO, MMIO, kombinované pro mm vlny
+Vedení:přenosové zařízení, příčné a<<použitá λ, l=>>λ a elmag. pole má v příčné rovině stacionární charakter
+Vedení(příklady):Otevřené dvouvodičové, Koaxiální, Mikropáskové
+Vlnovod:přenosové zařízení, příčné a,l=>>λ, ->šíří jen mezní kmitočet a +<-, rozložení pole ve vlnovodu má vlnový charakter v podélném a příčném směru
+Vlnovod(příklady):Dutý kovový(obdélníkový, kruhový), Dielektrický, Světlovod
+Mikrovlnné přenosové struktury(použití):Přenos mikrovlnných signálů, Konstruování mikrovln. obvodů a obvodových bloků s rozloženými i se soustředěnými parametry
+Přenos mikrovlnných signálů(vlnovod, použití):dvojvodičová, koaxiální a vlnovodová vedení
+Konstruování mikrovln. obvodů a obvodových bloků s (ne)soustředěnými parametry(vlnovod, použití):koaxiální, vlnovodové, mikropáskové struktury
+λₘ(vlnovod):mezní (kritická) vlnová délka(veličina)
+fₘ(vlnovod):mezní (kritický) kmitočet(veličina), nejnižší kmitočet, největší možná vlna
+λₘ(závislost, vlnovod):jen na příčných rozměrech vlnovodu
+fₘ(závislost, vlnovod):jako λₘ + ε, μ jímž je vlnovod vyplněn
+Pásmo propustnosti:f>fₘ, λ<λₘ, bez útlumu, super
+Pásmo nepropustnosti:f<fₘ, λ>λₘ, ++útlum, really bad
+
+Proč je vlnovod disperzní přenosovou strukturou?
+Porovnejte délku vlny ve vlnovodu s délkou vlny v prostředí, kterým je vlnovod vyplněn.
+Vysvětlete, co je TE vlna a TM vlna.
+Co způsobuje útlum vlny ve vlnovodu v pásmu propustnosti?
+Proč se elektromagnetická vlna nešíří ve vlnovodu v pásmu nepropustnosti?
+
+2)
+Jaké jsou dovolené kombinace vidových čísel vidů TE a TM ve vlnovodu obdéníkového průřezu?
+Vysvětlete, co je dominantní vid vlnovodu.
+Vysvětlete, co je pásmo vidovosti vlnovodu.
+Jaký je dominantní vid vlnovodu obdélníkového průřezu? Uveďte jeho mezní délku vlny.
+Nakreslete rozložení siločar dominantního vidu vlnovodu obdélníkového průřezu.
+Čím je omezen především maximálně přenášený výkon dominantního vidu TE10 ve vlnovodu obdélníkového průřezu pracujícího v impulsním a kontinuálním režimu?
+Jaký je fyzikální význam vidových čísel m a n u vlnovodu obdélníkového průřezu?
+
+3)
+Jaké jsou dovolené kombinace vidových čísel vidů TE a TM ve vlnovodu kruhového průřezu?
+Jaký je dominantní vid vlnovodu kruhového průřezu? Uveďte jeho mezní délku vlny.
+Nakreslete rozložení siločar dominantního vidu vlnovodu kruhového průřezu.
+Vysvětlete, co je rotačně symetrický vid. Uveďte příklad takového vidu u vlnovodu kruhového průřezu.
+Vysvětlete, co jsou nadrozměrné vlnovody. Uveďte příklad jejich realizace.
+Jaký je dominantní vid koaxiálního vedení? Uveďte jeho mezní frekvenci a nakreslete rozložení siločar tohoto vidu v příčném řezu.
+Jaký je hlavním vlnovodovým vid v koaxiálním vlnovodu? Definujte pásmo jednovidosti koaxiálního vedení.
+Porovnejte mezi sebou vlnovod obdélníkového průřezu, vlnovod kruhového průřezu a koaxiální vedení z hlediska maximálně přenášeného výkonu, útlumu a šířky pásma.
+
+4)
+Vysvětlete, co je mikrovlnný integrovaný (MIO) obvod. Uveďte výhody a nevýhody.
+Vysvětlete, co je hybridní mikrovlnný integrovaný (HMIO) obvod. Uveďte příklad realizace takového obvodu.
+Nakreslete a popište symetrické páskové vedení (stripline).
+Nakreslete a popište nesymetrické mikropáskové vedení otevřené (microstrip line).
+Nakreslete a popište koplanární vedení a koplnanární vlnovod. Obě vedení porovnejte.
+Jaké jsou dva základní problémy řešení planárních struktur?
+Jak postupy řešení je možné využit pro řešení planárních struktur ?
+Stručně popište řešení 1. problému nesymetrického mikropáskové vedení metodou konformního zobrazení.
+Stručně popište řešení 2. problému nesymetrického mikropáskové vedení metodou konformního zobrazení.
+
+5)
+Vysvětlete, co je mikrovlnný integrovaný obvod (MIO) se soustředěnými parametry.
+Nakreslete a popište realizaci MIO induktorů v klasické podobě a z velmi krátkých úseků vedení.
+Nakreslete a popište realizaci MIO kapacitorů v klasické podobě a z velmi krátkých úseků vedení.
+Nakreslete a popište realizaci MIO rezistorů se soustředěným odporem.
+Vysvětlete, co je monolitický mikrovlnný integrovaný (MMIO) obvod. Uveďte příklad realizace takového obvodu.
+Proč je vhodné pro realizaci MMIO používat GaAS?
+Nakreslete axiální a radiální přechod koaxiál-mikropásek.
+
+6)
+Vyjmenujte základní typy mikrovlnných rezonátorů.
+Popište princip rezonátoru z úseku vedení naprázdno.
+Popište princip rezonátoru z úseku vedení nakrátko.
+Vysvětlete, co je dutinový rezonátor, jakých hodnot nabývá jeho vlastní činitel jakosti a na čem tento parametr závisí.
+Jaký je význam vidových čísel m, n a p vlnovovodových dutinových rezonátorů?
+S jakým videm obvykle pracují válcové dutinové rezonátory a proč? Dominantní vid vlnovodu obdélníkového průřezu? Uveďte jeho mezní délku vlny.
+Nakreslete rozložení siločar vidu TE011 válcového rezonátoru.
+Vyjmenujte a nakreslete základní typy zapojení dutinového rezonátoru k napájecímu mikrovlnnému vlnovodu.
+Uveďte základní pravidla pro buzení vlnovodů proudovou sondou.
+Uveďte základní pravidla pro buzení vlnovodů magnetickou smyčkou.
+Uveďte základní pravidla pro buzení vlnovodů vazebním otvorem.
+
+7)
+Vysvětlete, co je planární mikropáskový rezonátor, nakreslete a popište mikropáskový rezonátor obdélníkového tvaru.
+Vysvětlete, co je štěrbinový rezonátor, nakreslete alespoň jeden příklad takového rezonátoru.
+Vysvětlete, co je dielektrický rezonátor, jaké jsou základní tvary takového rezonátoru, jakých typických hodnot nabývá vlastní činitel jakosti tohoto rezonátoru.
+Uveďte základní výhody dielektrických rezonátorů.
+
+8)
+Vysvětlete, jaký je význam členů rozptylové matice.
+Uveďte podmínku pro reciprokost obvodu.
+Uveďte podmínku pro bezeztrátovost obvodu.
+Na blokovém schématu popište princip funkce VNA.
+Proč je nutné provádět kalibraci VNA?
+K čemu se využívá teorie orientovaných grafů?
+
+9)
+Proč provádíme impedanční přizpůsobení zátěže k napájecímu vedení? Uveďte podmínku pro impedanční přizpůsobení.
+Vysvětlete princip impedančního přizpůsobení čtvrtvlnným transformátorem.
+Vysvětlete princip impedančního přizpůsobení vloženým vedením a čtvrtvlnným transformátorem.
+Vysvětlete princip impedančního přizpůsobení sériovým pahýlem.
+Vysvětlete princip impedančního přizpůsobení paralelním pahýlem.
+Vysvětlete princip impedančního přizpůsobení zužujícím se vedením.
+Porovnejte exponenciální, trojúhelníkové a Klopfensteinovo zúžení.
+
+10)
+Vysvětlete, co je dělič výkonu a uveďte v jakých režimech může pracovat.
+Nakreslete principiální schéma Wilkinsonova děliče výkonu a popište jeho funkci.
+Vysvětlete, co je směrová odbočnice.
+Uveďte a popište základní parametry směrových odbočnic.
+Vysvětlete princip funkce směrové odbočnice se dvěma otvory vzdálenými o λg/4 a uveďte příklad takové odbočnice s opačnou fází.
+Vysvětlete, co je kvadraturní hybrid a uveďte případ takého obvodu.
+
+11)
+Vysvětlete, co je odporový (absorpční) zeslabovač, popište základní princip a vyjmenujte základní typy těchto obvodů.
+Vysvětlete, co je bezodrazová koncovka a uveďte, jak ji realizujeme.
+Vysvětlete, co je posouvač fáze a uveďte, na jakých principech mohou být založeny.
+Vysvětlete, co je vlnovodový reaktanční člen a vyjmenujte základní typy.
+Vysvětlete, co je vlnovodový píst a uveďte příklady realizace.
+Nakreslete typy vlnovodových clon (včetně náhradního obvodu).
+Nakreslete typy vlnovodových kolíků (včetně náhradního obvodu).
+
+12)
+Vysvětlete, co je feromagnetická rezonance.
+Vysvětlete, co je Faradajův jev.
+Vysvětlete, co je dvojlom a příčná feromagnetická rezonance.
+Vysvětlete, co je feritový izolátor a uveďte příklady použití takového obvodu.
+Vysvětlete princip feritového izolátoru na základě Faradayova jevu.
+Vysvětlete, co je feritový cirkulátor a uveďte příklady použití takového obvodu.
+Vysvětlete princip tříramenného hvězdicového cirkulátoru.
+
+13)
+Vysvětlete, co vlnovod integrovaný do substrátu a nakreslete jeho typické uspořádání.
+Uveďte základní výhody a nevýhody vlnovodu integrovaného do substrátu.
+Nakreslete a popište přechod SIW-koaxiální vedení.
+Nakreslete a popište přechod SIW-mikropásek.

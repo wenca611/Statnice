@@ -14,116 +14,412 @@ Creation date = 2021/22
 pro ukončení obrázků stiskněte v obrázku libovolnou klávesu
 
 zkouška)
-hello:ahoj:0:0
-world:svět:1:1
-1+2:2+1:3:2
+hello:ahoj:70:4
+world:svět:120:15
 
 OKO)
 Jonesovy vektory)
-lineární polarizace ve směru x:[OKO\jones\1]:-1:-1
-lineární polarizace ve směru y:[OKO\jones\2]:0:0
-levotočivá kruhová polarizace:[OKO\jones\3]:0:0
-pravotočivá kruhová polarizace:[OKO\jones\4]:0:0
-lineární polarizace ve směru 45°:[OKO\jones\5]:0:0
-lineární polarizace ve směru -45°:[OKO\jones\6]:0:0
-lineární polarizace ve směru theta:[OKO\jones\7]:-99:1
+lineární polarizace ve směru x:[OKO\jones\1]:35:8
+lineární polarizace ve směru y:[OKO\jones\2]:66:11
+levotočivá kruhová polarizace:[OKO\jones\3]:28:7
+pravotočivá kruhová polarizace:[OKO\jones\4]:3:2
+lineární polarizace ve směru 45°:[OKO\jones\5]:45:9
+lineární polarizace ve směru -45°:[OKO\jones\6]:-46:11
+lineární polarizace ve směru theta(θ):[OKO\jones\7]:36:16
 
 Jonesovy matice)
-lineární polarizátor ve směru x:[OKO\jones\10]:0:0
-lineární polarizátor ve směru y:[OKO\jones\11]:0:0
-fázová destička s fázovým posuvem gamma:[OKO\jones\12]:0:0
-čtvrtvlná destička:[OKO\jones\13]:0:0
-půlvlná destička:[OKO\jones\14]:0:0
-lineární polarizátor ve směru 45°:[OKO\jones\15]:0:0
-lineární polarizátor ve směru -45°:[OKO\jones\16]:0:0
-levotočivý kruhový polarizátor:[OKO\jones\17]:0:0
-pravotočivý kruhový polarizátor:[OKO\jones\18]:-99:1
+lineární polarizátor ve směru x:[OKO\jones\10]:20:16
+lineární polarizátor ve směru y:[OKO\jones\11]:35:8
+fázová destička s fázovým posuvem gamma(γ):[OKO\jones\12]:36:8
+čtvrtvlná destička:[OKO\jones\13]:78:12
+půlvlná destička:[OKO\jones\14]:-47:11
+lineární polarizátor ve směru 45°:[OKO\jones\15]:35:8
+lineární polarizátor ve směru -45°:[OKO\jones\16]:82:4
+levotočivý kruhový polarizátor:[OKO\jones\17]:9:4
+pravotočivý kruhový polarizátor:[OKO\jones\18]:-31:11
 
 1)
-# Optická vlna:lineárně polarizovaná, pokud bylo záření laserové diody generováno v nadprahovém režimu:0:0
-# Optický výkon(Zářivý tok):[OKO\1]:0:0
-# Optická intenzita(Hustota zářivého toku):[OKO\2]:-99:1
-# Radiometrické veličiny:
-# Fotometrické veličiny:
-# Optické komunikační spektrum:
-# Dělení optických komunikačních systémů:
-# Gauusův svazek a jeho výkonnové, geometrické a spektrální parametry:
-# Top Hat svazek:
-# Besselovský svazek:
+Optická vlna:Obrazový signál s modulovanou aplitudou a fází:-10000:29
+Radiometrické veličiny[přístroj]:Zářivý tok, zářivost, hustota zářivého toku:-10000:16
+Radiometrické veličiny(jetnotky):W, W/sr, W/m^2:-10000:23
+Zářivý tok/optický výkon(práce za čas):Φe=P=ΔE/Δt:-10000:9
+Zářivý tok/optický výkon(jednotky):J/s = W:-10000:21
+Zářivost(výkon na kouli):Ie=ΔΦe/ΔΩ=ΔP/ΔΩ:-10000:8
+Zářivost(jednotky):W/sr:-10000:5
+Hustota zářivého toku/optická intenzita(výkon na ploše):Je=ΔΦe/ΔS=ΔP/ΔS:-10000:22
+Hustota zářivého toku/optická intenzita(jednotky):W/m²:-10000:20
+Fotometrické veličiny[oko]:Světelný tok, svítivost, osvětlení:-10000:9
+Fotometrické veličiny(jetnotky):lm, cd, lx:-10000:35
+Světelný tok(světelný výkon svítidel):Φ:-10000:11
+Světelný tok(jednotky):lm:-10000:26
+Svítivost(tok na kouli):I=ΔΦ/ΔΩ:-10000:7
+Svítivost(jednotky):cd:-10000:22
+Osvětlení(tok na ploše) :E=ΔΦ/ΔS:-10000:11
+Osvětlení(jednotky):lx:-10000:14
+Optické komunikační spektrum:VIS, IR, UV:-10000:39
+UV:10-400nm:-10000:10
+Druhy UV:UVA, UVB, UVC:-10000:24
+VIS:400-700nm (380-760nm):-10000:45
+IR:750nm-1mm(near, mid 2.5-10μm, far):-10000:5
+Near IR:750nm-2.5μm:-10000:28
+Mid IR:2.5-10μm:-10000:38
+Far IR:10μm-1mm:-10000:11
+Dělení optických komunikačních systémů:Vlnová délka/Přenosová rychlost/Směrovost/Dosah/Směr komunikace/Mobilita/Provoz/Přenosové médium/Místo provozu/Viditelnost:-10000:10
+Výhody optických komunikací:+přenosové rychlosti, +časová dostupnost, odolnost proti EM, bezlicenční pásmo, OBS-fast install, OVS-nezávislý na okolí:-10000:1
+Nevýhody optických komunikací:jen vybrané vlnové délky, nastavení optiky, opatrnost při manipulaci s laserem, často dražší, OBS-meteorologické podmínky, OVS-výkopové práce:-10000:1
+Gaussův svazek:generovaný optickým zdrojem:-10000:0
+Výkon Gaussova svazku:soustředění do úzkého kužele:-10000:3
+Geometrie Gaussova svazku:Gaussovo rozložení:-10000:0
+Top Hat svazek:Transformace z Gaussova svazku, skoková změna optické intenzity v profilu:-10000:10
+Top Hat svazek(využití):V turbulentní atmosféře:-10000:7
+Top Hat svazek(vznik):otvor(apertura), index lomu, čočka, difraktivní difuzér:-10000:3
+Besselovský svazek:Transformace z Gaussova svazku axiconem, nedifraktivní svazek, omezený dosah, samorekonstrukce:-10000:13
+Besselovský svazek(vznik):z Gaussova svazku skrz Axicon->sinc vlna:-10000:0
 
 2)
-# Difrakce optického záření:
-# Dielektrická prostřední:
-# Polarizace optického záření:
-# Jonesovy matice a vektory:
-# Časová a prostorová koherence optických vln:
-# Interference:
-# Fabryův – Perotův interferometr.
+Difrakce optického záření:odklon přimočarého šíření optických vln(NE odraz a lom):-10000:3
+Dielektrická prostřední(vztah mezi polariz. a intenz.el.pole):(ne)homogenní, (an)izotropní, (ne)lineární, ne(disperní):-10000:2
+Lineární prostředí:vektor polarizace závisí lineárně na vektoru intenzity elektr.pole:-10000:1
+Nedisperzní prostředí:odezva optic.signálu v prostředí je okamžitá:-10000:3
+Homogenní prostředí:vztah mezi vektorem polariz. a vekt. intenzity elektr. pole nezávisí na prostorových souřadnicích:-10000:-1
+Izotropní prostředí:vztah mezi vektorem polariz. a vekt. intenziry elektr. pole nezávisí na směru vektoru intenzity ||:-10000:-1
+Polarizace optického záření:fyzikální jev elmag. složky s jistými zákonitostmi:-10000:3
+Polarizace optického záření(typy):kruhová, lineární, eliptická:-10000:6
+Kruhová polarizace:Δϕ=ϕ₁-ϕ₂=(2n-1)π/2, A₁=A₂:-10000:3
+Lineární polarizace:Δϕ=ϕ₁-ϕ₂=nπ, A₁,A₂>0 or A₁=0 or A₂=0:-10000:6
+Eliptická polarizace:ostatní varinty než kruhová a lineární polarizace:-10000:2
+Jonesovy vektory:popis optického záření:-10000:0
+Jonesovy matice:popis polarizačních komponent:-10000:3
+Vlnová destička(fázová):optické zařízení, které mění polarizaci světla:-10000:0
+Vlnová destička(typy):půlvlnná(mění směr lin. pol.), čtvrtvlnná(mění lin. pol. <=> kruhovou pol.):-10000:0
+Vlnová destička(využití):materiál polaroid, sluneční brýle(sklo aut), polarizační filtry(LCD):-10000:1
+Časová a prostorová koherence optických vln:určuje míru koherene:-10000:2
+Interferenční člen(stupeň koherence):γ₁₂, 1<=γ₁₂<=1:-10000:2
+Interference:skládání koherentních optických vln od n opt. zdrojů:-10000:3
+Fabryův–Perotův interferometr:rezonátor, sestaven ze 2 polopropustných paralelně uložených zrcadel:-10000:2
+Fabryův–Perotův interferometr(použití):filtr nežádoucích složek spektra(+rezonátor):-10000:3
 
 3)
-# Materiály pro výrobu optických komponent, jejich základní vlastnosti:
-# Typy optických
-# čoček a jejich charakteristiky:
-# Děliče svazků, zrcadla, hranoly, reflektory, optické
-# izolátory, optické filtry:
-# Vlnové destičky:
-# Index lomu prostředí.
+Materiály v optice:α-BBO, BaF₂, CaCO₃, CaF₂, F2, Ge, MgF₂, N-BK7, N-SF11, TiO₂, Al₂O₃, Si, PTFE, UV Fused Silica, ZnSe:0:0
+α-BBO:->dvojlom<-, polarizační optika, EZ mechanické poškození(ochrana), ->tₜ=1095°C<-:28:7
+Barium Floride(BaF₂):vydrží vysokoenergetické záření, citlivý na vodu a vlhkost nad 500°C(dry 800°C), ochrana pokožky!, ≈ CaF₂, tₜ=1368°C:9:2
+Calcite(CaCO₃):->polarizační optika<-, EZ mechanické poškození(ochrana), tₜ=825°C:3:2
+Calcium Fluoride(CaF₂):BIG šířka pásma(od 180nm), mechanicky stabilní, necitliví na okolí, exomerové lasery, spektroskopie, zobrazové systémy, tₜ=1418°C:1:0
+F2:křemenové sklo, good NIR oblast, ->disperzní hranoly<-, good chemie, tₜ=->580°C<-:21:6
+Germanium(Ge):BIG rozmezí vln. délek, IR biomed./voj. zobrazovací systémy, odolný na okolí, propustnost při 100°C, 200°C neprůhledný, rukavice, tₜ=936°C:28:7
+Magnesium Fluoride(MgF₂):syntetický krystal, BIG šířka pásma propustnosti, UP stabilní, good chemie, UV - IR, mikroskop, zobrazení, průmysl. aplikace, tₜ=1255°C:-1:0
+N-BK7:->nejpoužití<-, kvalitní čočky, optické komponenty, odolný na vlivy, BIG pásmo vln. délek, preciní optika, ->min. mikrobublin, tₜ=550°C<-:0:0
+N-SF11:vyšší disperze než N-BK7, jinak podobné, tₜ=592°C:10:4
+Rutile(TiO₂):stálý, vysoký index lomu, BIG dvojlom, polarizační element(->ext. ratio 1e5ku1<-), tₜ=1840°C:3:2
+Sapphire(Al₂O₃):mechanicky odolný, nelze poškrábat, tenké, dobrá voda, kyseliny a zásady do 1000°C, IR laser aplikace, tₜ=1800°C:2:2
+Silicon(Si):MID-IR, kraj IR, zrcadla, zobrazování, biomed., voj., tₜ=1690°C:5:1
+Teflon(PTFE, polytetrafluorethen):plastové plano-konvexní čočky, kraj IR, tₜ=327°C:1:1
+UV Fused Silica:UV +-95%, kde není N-BK7, nižší index lomu a homogenní, tₜ=1585°C:1:1
+Zinc Selenide(ZnSe):BIG šířka páspa propust.(600nm-16μm), s CO₂ laserem, zobraz. systém, měkký, poškrabatelný, rukavice, tₜ=1520°C:1:1
+Optické čočky(typy):Sférické, Asférické, Achromatické, GRIN, Speciální typy:7:1
+Sférické čočky:Planokonvexní, Bikonvexní, Planokonkávní, Bikonkávní, Pozitivní meniskus, Negativní meniskus:4:1
+Pozitivní meniskus:Konkavokonvexní:10:4
+Negativní meniskus:Konvexokonkávní:0:0
+Sférické čočky(vady):Sférická aberace(více ohnisek, z konců čočky):1:1
+Asferické čočky:řeší sférickou aberaci:6:3
+Chromatické čočky(vady):Chromatická aberace(jiný lom pro různé vlnové délky):1:1
+Achromatické čočky(doublety):řeší chromatickou aberaci:3:2
+GRIN čočka-gradient index čočka(využití):navázání/vyzáření opt. svazku do/z vlákna:9:2
+Speciální typy čoček:cylincrické, kuličkové, axicony, lenslety:-1:0
+Konvexní čočka:paprsky se kříží:10:4
+Konkávní čočka:paprsky se oddalují:6:3
+Cylindrická/Kuličková čočka:paprsky mají více ohnisek:21:6
+Zrcadlo(typy):Širokopásmové, pro lasery, dichroické:0:1
+Zrcadlo(vlastnosti):rovinnost(λ/8, λ/10, λ/16), odraz v spektr. oblasti, odraz. vrstva(Ag, Au, AL), odrazivost(+85%), pravoúhlý hranol, max opt. výkon, odraz otočí o π:2:2
+Optické filtry(typy):Barevné, Dielektrické, ND:10:4
+Barevné filtry:propust. část spektra, BIG šířka pásma propust., UV/VIS/IR, pásmová/horní propust, CTB:0:1
+Dielektrické filtry:UV/VIS/IR, dichroické filtry, pásmová propust = F-P rezonátor, pásmová zádrž = princip absorpce, funkce úhlu dopadu:9:2
+ND filtry:(OD/ND), absorpční NDF, reflektivní NDF, variabilní NDF:15:5
+Absorpční NDF:F, nízkovýkonové aplikace:3:2
+Reflektivní(metalické) NDF:F, konstantní útlum v BIG pásmu:6:3
+Variabilní(proměnné/přechodné) NDF:F, kontinuální nebo skoková změna útlumu:3:2
+Mřížky:Transmisní difrakční, Reflektivní difrakční, Holografická difrakční:3:2
+Transmisní difrakční mřížka:rozklad záření na pravidelné struktuře mřížky(skrz):1:1
+Reflektivní difrakční mřížka:mřížka tvořená odrazivým materiálem, podobně jako transmisní(odraz):1:1
+Holografická difrakční mřížka:holografická mřížka, nanesení fotocitlivého materiálu na substrát, difrakční obrazec díky interferenci:0:0
+Beamsplitter(dělič svazku):Deskový, Krychlový, Polarizační:-1:-1
+Deskový Beamsplitter:fce polopropustného zrcadla:1:1
+Krychlový Beamsplitter:dělí optický výkon v poměru(50ku50, 10ku90):-1:-1
+Polarizační Beamsplitter:dělí optickou vlnu na 2 polarizované vlny[(1 0) vs (0 1), (1 j) vs (1 -j)]:0:0
+Hranoly:Pravoúhlé, Disperzní, Retroreflektory:1:1
+Pravoúhlé hranoly(odsměrují optické záření):90°-teleskop,periskop; 180°-inverní,neotočený obraz; pro dané spektrum:1:1
+Retroreflektory:180°-inverzí,otočený obraz, i místo zrcadla:1:1
+Disperzní hranoly:ve spektrometrech, analýza zařízení:-1:-1
+Optické systémy a ostatní komponenty:Objektivy, Expandéry, Izolátory, Difuzéry:0:0
+Objektiv:zvětšuje obraz:1:1
+Expandér:zvětšuje r vstupního kolmého svazku, Keplerian BE(X), Galilean BE(=):0:0
+Izolátor:Faradayův efekt, ochrana zdroje:0:0
+Vlnové destičky:Půlvlná, Čtvrtvlná, Fázová s fázovým zpoždění:0:0
+Index lomu prostředí:bezrozměrná fyz. velčina, popisuje šíření světla a elmag. v látkách:0:0
+Index lomu prostředí(vzorce):n=c/v, n=√(εᵣ*μᵣ), n₁*sin(α)=n₂*cos(β) Snellův zákon:3:2
 
 4)
-# Princip funkce laseru:
-# Optický rezonátor a vyzařované vlnové délky:
-# Funkce tvaru
-# spektrální a rezonanční čáry laseru:
-# Laserové diody a LED:
-Tvarování optického svazku.
+Laser:optický zdroj elmag. záření, uzký svazek, koherentní, monochromatický, polarizované záření:0:0
+Laser(části):Rezonátor, Aktivní látka, Buzení(+energie):0:0
+Laser(dělení podle):Aktivní látka, typ buzení, vlnové délky, kontinuální a pulzní režim, aplikace:0:0
+Optický rezonátor:prostor omezený 2 zrcadly, mnohonásobný odraz, akumuluje opt. energii, i frekvenční filtr:0:0
+Optický rezonátor 00:dominantní mód Gausovský mod:-1:-1
+Stabilita rezonátoru:záření na stejné trajektorii po pár odrazech:1:1
+Podmínka stability rezonátoru(vzorec):0<=(1-d/R₁)*(1-d/R₂)<=1:3:2
+Rezonátor(vyzařování):jen dané vlnové délky(s minimálními ztráty):-1:-1
+# Funkce tvaru spektrální a rezonanční čáry laseru
+Buzení laseru(excitace, čerpání):+energie do aktivní látky:0:0
+Buzení laseru(typy):Optické čerpání, Buzení elektrickým polem, Chemické čerpání, Buzení elektronovým svazkem, Buzení expanzí horkého plynu:1:1
+Laserové diody[LD]:stimulovaná emise, polovodičové lasery, vysoká směrovost(F-P rez.), monochrom., koherentní záření, Gauss. profil, nízká diverfence:-1:0
+Laserové diody[LD](dělení):vnitřní struktura, vyzařování, konstrukce:3:2
+LD vnitřní struktury(dělení):Homostrukturní, Heterostrukturní, S rozloženou zpětnou vazbou, S kvantovými jámami:0:0
+LD vyzařování(dělení):Hranově vyzařující lasery, Plošně vyzařovací lasery:0:0
+LD konstrukce(dělení):Vyzař. do 2 směrů, Monitorování optického výkonu PIN, AR cover window/nakloněné, PRO OV + čočka, Pigitailované LD:-1:-1
+Homostrukturní LD:PN přechod, EZ struktura, -index lomu, +prahová hodnota proudu, ztráty v polovodiči, η<<, chlazení, NOPE:0:0
+Heterostrukturní LD:Skokové změny indexu lomu, v OV, Single HL/double HL, SHL, DHL(η≈75%):-1:-1
+LD s kvantovými jámami:dvojitá heterostruktura, aktivní vrstva=kvantová jáma, --spektrální čáta, η≈80%:0:0
+Výhody LD:η++ konverze, modulovat+rychlost, miniaturní součástka, integrovaná optika, cena-:1:1
+Nevýhody LD:-koherenze než Laser, teplotní stabiliace, ne celé spektrum:0:0
+LED(Light Emitting Diode):P-N přechod. elektroluminiscence, propustný směr, US, VIS, IR, (modrá hard), +-monochromatické, -koherence, -U,-I, úspora energie, rychlé svítí, dlouhá životnost, spontánní emise, bez rezonátoru:1:1
+Princip funkce LED:spontánní emise:0:0
+Aplikace LED:Signalizace, Osvtlení, Světlomety automobilů, TV, Monitor, Short opt. komunikace, Terapie:0:0
+Tvarování optického svazku:Metody jak vytvořit Gaussův/Besselův/Top Hat svazek:1:1
 
 5)
-# Princip fotodetekce a fotoelektrický jev:
-# Fotodiody PIN, lavinové fotodiody a jejich
-# charakteristiky:
-# Statistické a stacionární parametry optického spoje.
+Fotoelektrický jev:Vnitřní/vnější, absorpcí fotonu dojde ke generování fotoelektronu - elektronu:3:2
+Vnitřní fotoelektrický jev:elektrony out uvnitř materiálu:0:0
+Vnější fotoelektrický jev:elektrony out z povrchu materiálu:0:0
+Fotoelektrický jev(rovnice):hv=Wᵥ+Eₖ, energie dopadajícího záření=výstupní práce pro uvolnění elektronu+kinetická energie výstupního elektronu:0:0
+Fotodetektor(požadavky):citlivost na vln. délky, good konvere fotonů na elektrony, fast odezva detekce sig., nízký šum pro nízkou chybovost, good akt. plocha fotodiod pto max. zachycení sig., +spolehlivost, -cena:0:0
+Temný proud Id:je na výstupu fotodetektoru i bez dopadu optic. záření <= t+:0:0
+Fotodetektor(materiály):Si-fast(Id-)citliv., Ge-slow(Id+), InGaAsP-fast(Id-)$, InGaAs-fast(Id-)$:0:0
+Fotodetektor(typy):PIN, APD(lavinová fotodioda):3:2
+PIN:P-N přechod s instrinsickou vrstvou I, fotony absorbovány v I vrstvě, +kvant. η, -kapacita, -šum, často Si, G=1:0:0
+APD(lavinová fotodioda):IN zesílení lavin. procesem, +U(100V), excitace elektr.->urychlen IN el.polem->gen new elektr., citlivý detektor, kvantový šum větší než PIN, G=10-1000, Geiger. režim 1E6 zesílení:0:0
+Statistické parametry optického spoje:Na lokalitě(můsto působení), analýza meteorologických vlivů, statisticky "odhadnutelné"(mění):1:1
+Stacionární parametry optického spoje:Návrh, konstrukce spoje, parametry se dají operativně měnit(nemění):1:1
+Minimální požadovaný optický výkon:Pmin=Pc+SNR:0:0
+Saturační úroveň fotodetektoru:Psat:1:1
+Statistické parametry(typy):Hustota pravděp. detekce opt. sig., Pravděpodobnost nedostupnosti, Útlum optického signálu, Atmosferická turbulence, Šumy, Procento časové (ne)dostupnosti spoje, Přerušení:0:0
+Stacionární parametry(typy):GOOD Vzdálenost vysílač-přijímač(dosah spoje), Nastavení rychlosti, Vlnová délka, Modulační technika, Optický zdroj, Optické komponenty:1:1
+Nastavení vzdálenosti vysílač-přijímač(dosah spoje):Krátký dosah(do 100+m), Střední dosah(do 10km), Dlouhý dosah(nad 10km):-1:-1
+Nastavení přenosové rychlosti:Nízká přenosová rychlost(do 10Mb/s), Vysoká přenos. rych.(do 10Gb/s), Velmi vysoká přenos. rych.(nad 1Tb/s):1:1
+Výběr vhodné vlnové délky(nejčastěji, stacionární par.) v optických komunikacích:850 nm, 1310 nm, 1550 nm:10:4
+Modulační techniky v optických komunikacích:Typ opt. zdroje(IN, EX), Typu opt. spoje[(bez)kabel], Vlastnosti přenosového media a rušení opt. sig. v přenosovém mediu, Požadovaná chybovost optického spoje:0:0
+Výběr vhodného optického zdroje v optických komunikacích:Laser(koherentní spoje), Laserová dioda[(ne)koherentní spoje], LED(nekoherentní spoje):3:2
+Chybovost(BER):bit error rate, BER+->SNR+:0:0
+Odstup signálu od šumu(SNR):signal-to-noise ratio, jiné pro jiné modulace:0:0
+Výkonová bilanční rovnice:Pdet=P_LD-α+γ-ρ, požad. výkon=výkon zářiče-útlumy+zesílení-výkonová rezerva spoje:0:0
+Optiké spoje(využití):Komunikace v rámci areálu(speed+), Vysokorychl. opt. kabelové spoje, Řešení problému poslední míle, Obnova komunikace po katastrofě, Lidary, Měřicí stanice, High Altitute Platforms (HAP), Bezpečné spoje–kv. kryptografie, Underwater komunikace, Long range spoje:0:0
 
 6)
-# Šumy v optické komunikaci:
-# Koherentní a nekoherentní optické komunikační systémy.
-# Modulační techniky v optických komunikacích:
-# Odstup signálu od šumu a chybovost
-# signálu:
-# Výkonová bilanční rovnice a výkonový diagram.
+Šumy v optické komunikaci:Výstřelový, Kvantový, Temného proudu, Pozadí:0:0
+Výstřelový šum:součet optických šumů projevujících se v přijatém signálu:0:0
+Kvantový šum:kvantová podstata fotonů, jeho míra souvisí s size přijatého optického signálu Ppd, kvantový šum nelze odstranit, je vždy přítomen:1:1
+Šum temného proudu:dán Id fotodetektoru, redukce vhodným chlazením detektoru:6:3
+Šum pozadí:dán optickým výkonem šumu Pb, Slunce+okolní osvětlení, redukce interferenčním filtrem, prostorovou filtrací:0:0
+Koherentní optické komunikační systémy:Laser, Laserová dioda:1:0
+Nekoherentní optické komunikační systémy:Laserová dioda, LED:0:0
+->zbytek co už je viz 5)
 
 7)
-# Princip šíření světla v optických vláknech:
-# Typy optických vláken a jejich základní
-# parametry:
-# Disperze a útlum optického signálu:
-# Technologie výroby optických vláken.
-# Energetická bilance optického kabelového spoje:
-# Útlumové a disperzní omezení spoje.
+Princip šíření světla v optických vláknech:Totální vnitřní odraz na rozhrní 2 prostředí s různým indexem lomu:1:0
+Numerická apertura NA:schopnost vázat optický svazek do jádra:0:0
+Optické vlákno(části):Jádro-signál, Plášť, Primární ochrana(více vrstev):0:0
+Výhody optického vlákna: BIG šířka pásma přenosu B x L(MMSI, MMGI, SMSI), -útlum, galvanické oddělení, EMC odolné, neodposlouchovatelné, flexibilní, levné:0:0
+Nevýhody optického vlákna:Pokládka kabelů, delší trasy(opakovače, zesilovače):0:0
+Typy optických vláken:Počet módů, Rozměry optických vláken, Profil indexu lomu, Použité konektory:0:0
+Počet módů(OV):SM–single mode, jednomódové opt. vlákno, MM – multi mode, mnohomódové opt. vlákno:1:1
+Typické rozměry(OV):SM–(8–10)μm 125μm, MM–50μm 125μm, MM–62.5μm 125μm; {jádro, plášť}:-1:-1
+Profilu indexu lomu(OV):SI–step index, skoková změna indexu lomu, GI–gradient index:0:0
+SI:step index:0:0
+GI:gradient index:0:0
+SM:single mode:1:1
+MM:multimode:0:0
+Použité konektory(OV):FC/PC, ST, SC-duplex:0:0
+Útlum OV:chem. složení OV, rozptyl opt. energie na částicích(Rayleighův rozptyl), nečistoty big as vlna(Miův rozptyl), absorpce na molekulách:0:0
+Rayleighův rozptyl:rozptyl opt. energie na částicích v OV:1:1
+Miův rozptyl:výskyt nečistot big as vlna v OV:3:2
+Útlum OV(Okna-části na vln. délce):1. okno, 2. okno, 3. okno, 4. okno:1:1
+1. okno útlumu:800-900nm, zdroje a detektory, 70. léta:0:0
+2. okno útlumu:1310nm, ->0 disperze v SM vlákně<-, $, 0.35dB/km, dálkové spoje, WIN, 80. léta:0:0
+3. okno útlumu:1510, 1600nm, ->0.26dB/km<-, $++, rozšířené komunikační okno:1:1
+Ostatní ztráty OV:Na spoji OV(přerušení, posun atd.), Makroohyby(big ohnutí), Mikroohyby(tlak):1:1
+Disperze OV(vliv):omezuje rychlost na délce OV:0:0
+Disperze OV(typy):Chromatická = Materiálová + Vlnovodná, Polarizační módová PMD:0:0
+Materiálová disperze OV:Každá vln. délka jiná rychlost, šířka spektrální čáry nebo kanálu != 0, index lomu na vlnové délce:1:1
+Vlnovodná disperze OV:* kvůli změna tvaru vidu s vln. délkou, MM GI ≈ 0, SM důležitý(-1*hodnota):0:0
+Polarizační módová disperze PMD OV:MM OV, módy se šíří různými trasami(různá délka)=>módy dorazí do přijímače v různých t[s] <= anisotropie, relativně náhodný proces <=> s mech. změnami v OV:0:0
+WDM:vlnový multiplex(Wavelength Division Multiplex):0:0
+CWDM:Coarse Wavelength divison multiplex:0:0
+DWDM:Dense wavelength divison multiplex:0:0
+WDM(multiplikace):nosná s více signály, MUX, (frekvenční multiplex):-1:-1
+WDM(demultiplikace):FBG+cirkulátory, Splittery s F-P filtry:3:2
+Výroba OV(požadavky):++čistota materiálu, těžké kovy max 1z1e9, H₂O max 1e1e8, ++preciznost v rozměrech a umístnění(<1μm):1:1
+Výroba OV:Čištění silicy, Rychlá kondenzace, Tavenina v Pt nádobě kvůli znečištění, Tažení vlákna, Kelímková metoda, Depozice par:1:1
+čištění silicy SiO₂(výroba OV):princip destilace, Si písek do varu 2230°C, Silica se vypaří a kondenzuje na kap. 2000°C.:1:1
+Tažení vlákna(výroba OV):z +průřez na -průřez, z formy tyče(preforma)-uniformní zahřátí tyče, levné, nepřesné:1:1
+Kelímková metoda-2 kelímky z Pt:NOPE, neideální přůřez vlákna a charakteristiky, OUT táhne vlákno, atmosféra pro stabilizaci t°C:1:1
+Depozice par(typy):OVD, VAD, MCVD, PCVD:0:-1
+Depozice par OVD(outside vapour deposition):Good(ne komerčně), pro speciální využití OV, BAD s odstraněním molekul H₂O a následně vysoká koncentrace OH, pokles indexu lomu jádra v ose, $:0:0
+Depozice par VAD(vapour axial deposition):Better, -||- pro SM vlákna, Významný podíl ve výrobě vláken, z preformy lze vytvořit až 250 km vlákna:1:1
+Depozice par MCVD(modified chemical vapour deposition):Best(světově), SM, MM GI, No H₂O a OH, kontrola indexu lomu profilu preformy, FAST:-1:-1
+Depozice par PCVD(plasma-activated chemical vapour deposition):Jako MCVD, zdroj E mikrovlnné pole(magnetron), kontrola indexu lomu profilu(lepší než MCVD):0:0
+Energetická bilance opt. kabelového spoje:malý útlum, opakovač, zesilovač again jako u bezkabel.:-1:-1
+Optovláknový zesilovač:EDFA 1550nm, PDFA 1310nm (Erbium/Praseodym Dopped Fibre Amplifier):1:1
+Útlumové omezení spoje:all OV tlumí 0._dB/km, uřčí se délka Lov vlákna pro požadovanou Pout(min)->zesilovač:0:0
+Disperzní omezení spoje:díky šířce vlákna->disperze Lov*v_i->opakovač:1:1
+Blokové schéma bezkabelového spoje:Data, Vysílací jednotka, Přenosová trasa, Přijímací jednotka, Data:1:1
 
 8)
-# Beerův – Lambertův zákon:
-# Útlumy a rozptyly v atmosféře:
-# Atmosférická turbulence a
-# refrakce:
-# Šumy v optických bezkabelových spojích:
-# Nestandardní atmosférické jevy.
-# Používané vlnové délky pro atmosférické optické komunikace:
-# Vrstvy atmosféry a jejich
-# charakteristika.
+Beerův–Lambertův zákon:Určuje absorbanci(kolik světla bylo pohlceno měřeným vzorkem):1:1
+Beerův–Lambertův zákon(atm):Propustnost atmosféry(útlum):0:0
+Index lomu(atm):Atm. přenosové prostředí(Nehomogenní, Disperzní, Nestacionární, Anizotropní):1:1
+Index lomu(atm, závislost):výška nad povrchem, vlnová délka, t°C, tlak, relativní vlhkost:1:1
+Standardní jevy(atm):Atm. útlum, Turbulence, Šumy, Přerušení optického svazku, Atm. refrakce:1:1
+Koeficient extinkce:γ(λ)=αₘ(λ)+αₐ(λ)+βₘ(λ)+βₐ(λ):0:0
+Útlum optického svazku(atm):Absorpce na molekulách, Absorpce na aerosolech, Rozptyl na molekulách, Rozptyl na aerosolech:0:0
+αₘ(λ):Absorpce na molekulách:0:0
+αₐ(λ):Absorpce na aerosolech:0:0
+βₘ(λ):Rozptyl na molekulách:0:0
+βₐ(λ):Rozptyl na aerosolech:1:1
+Útlumy(atm, rozptyly):Rayleighův(Modré nebe), Miův(Bílé mraky), Geometrický(nezávisí na λ) <- r≪≈≫λ:0:0
+Rozptyl:parametr dimenze, 𝛼=2𝜋𝑟/λ, r...poloměr:1:1
+Meteorologická viditelnost V:vzdálenost ve které klesá intenzita o 2(5)% dle definice:0:0
+Kimův vztah pro meteorologickou viditelnost:koef. extinkce γ(λ)≈βₐ(λ):1:1
+Turbulence(atm):vlastnost proudění, neúplně vyřešena:1:1
+Laminární proudění:hladké, rovnoběžné proudové čáry(proudnice):3:2
+Turbulentní proudění:složitá struktura, propletené proudnice na čase mění chaoticky:1:1
+Reynoldsovo číslo:[-], lze z ní určit, zda je proudění laminární nebo turbulentní(+číslo->-tření):1:1
+Proudění(popis):Navierovy Stokesovy rovnice:-1:-1
+Termická turbulence(atm):Teplotní nehomogenity, souvisí na Sun, min. před úsvitem, podíl má i vítr:0:0
+Mechanická turbulence(atm):* reliéf terénu, Hory/skalní útvary, Městská zástavba, +výšky(mraky), Orografická turbulence:-1:-1
+Fluktuace optické intenzity ve svazku:svazek prochází turbulentními celami menších rozměrů:1:1
+Odklonění optického svazku(atm):Jev fata morgána, Turbulentní cely větších rozměrů, Putování optického svazku:0:0
+Změna úhlu dopadu(atm):svazek přichází z jiného směru než očekávaného:0:0
+Změna šířky optického svazku(atm):Turbulentní cely jako čočky, + a - pološířky svazků:3:2
+Refraktivita atmosféry:N=(n-1)*1e6 (mění se s výškou, zahnutí křivky směr šikmo nahoru):0:0
+Šumy(atm):Parazitní zdroje záření(Sun, světelný smog), Turbulentní šum, Mechanický šum(vítr):1:1
+Redukce šumů(atm):Prostorová filtrace(kryty), Spektrální filtrace(IF filtr), Stabiliace konzol:3:2
+Nestandardní jevy(atm):Námraza, Zamlžené průzory, Kapky vody, Aktivita hmyzu, Kývání budov, Blesky:0:0
+Používané vlnové délky pro atm. optické komunikace:UV-bez šumu Sun, rozptyl na molekulách, VIS-good propustnost atm., IR-OBS(850-1550nm):1:1
+Složení(atm):Molekuly, Hydrometeory, Litomery:0:0
+Molekuly(atm):N₂-78.1%, O₂-20.9%, Ar-0.93%, CO₂-0.04%, CH₄, N₂O, CO, O₃ atd.:0:0
+Hydrometeory(atm):Déšť, Sníh, Mlha, Kroupy:0:0
+Litometeory(atm):Prach, Kouř, Pískové částice:0:0
+Vrstvy atmosféry:Troposféra, Stratosféra, Mezosféra, Termosféra, Exosféra:1:1
+Troposféra:↑t-, planet. mez. vrstva<-(1-2km), 50% vlhkost, big turbulence, je 80% atm.:1:1
+Stratosféra:Ozónová vrstva, -koncentr. částic, ↑t+:0:0
+Mezosféra:↑t-, Ionosféra až do Termosféry:0:0
+Růst teploty v atm.:Troposféra ↑t-, Stratosféra ↑t+, Mezosféra ↑t-, Termosféra ↑t++, Exosféra?(t--):0:0
 
 9)
 # Konstrukce vysílací a přijímací jednotky v optickém bezkabelovém spoji:
-# Energetická
-# bilance optického bezkabelového spoje:
-# Bezpečnost a zabezpečení v optické bezkabelové
-# komunikaci:
-# Postup při návrhu optického bezkabelového spoje.
+Vysílací jednotka(OBS):Optický zdroj, vysílací čočka, útlum laser-vysílací čočka, krycí sklo:0:0
+Optický zdroj(OBS, vysílač):vlnová délka(850-1550nm), optický výkon, míra koherence, tvar spektrální charakteristiky:3:2
+Vysílací čočka(OBS, vysílač):spektrální propustnost, indexu lomu, velikost:1:0
+Útlum na vazbě laser–vysílací čočka(OBS, vysílač):část svazku dopadne na čočku, zbytek optického výkonu puf(1.5dB):0:0
+Krycí sklo(OBS, vysílač):nakloněné kvůli zpětnému odrazu, chrání systém před průnikem nečistot(dB dle materiálu):3:2
+Přijímací jednotka(OBS):Fotodetektor, přijímací čočka, IF filtr, krycí sklo, útlum čočka-detektor:0:0
+Přenos signálu prostorem(OBS):útlum šířením, útlum atmosférou(rozptyl hydrometeory, útlum turbulence), útlum zaměřením(1.5dB):1:1
+Fotodetektor(OBS, přijímač):dostatečná úroveň signálu–PIN, jednofotonové a --úrovně signálu-APD:0:0
+Přijímací čočka(OBS, přijímač):+zisku na přijímací apertuře => přijímací čočka++, better Fresnelova čočka, ůtlum víme jako u vysílací čočky:1:1
+IF filtr(OBS, přijímač):F-P interferenční filtr pro minimalizaci vlivu šumu pozadí, propustnost 50%(3 dB):-1:-1
+Krycí sklo(OBS, přijímač):nakloněné kvůli zpětnému odrazu, chrání systém před průnikem nečistot, jako Krycí sklo(OBS, vysílač):-1:-1
+Full α,ρ OBS schéma:α_TL, α_L,TL, α_CW1, α_z, α_TR, α_CW2, α_RL, γ_RL, α_IF, α_PD,RL:0:0
+α_TL=10log(τ):útlum na vysílací čočce:0:0
+τ:spektrální propustnost:-1:-1
+α_L,TL=10log(P_TL/P_L):útlum na vazbě laser-vysílací čočka:0:0
+P_TL:optický výkon dopadající na čočku:0:0
+P_L:optický výkon vyzářený optickým zdrojem:1:1
+α_CW1=10log(τ):útlum na vysílacím skle:1:1
+α_z:útlum zářením:0:0
+α_TR=20log(L₀/(L₀+L_TR)):útlum šířením:1:1
+L₀=D_TXA/ϕ_TX:pomocná délka:0:0
+ϕ_TX:divergence vysílaného svazku:0:0
+α_CW2:útlum na krycím přijímacím skle:1:1
+α_RL:útlum na přijímací čočce:1:1
+γ_RL=|20log(D_RXA/D_TXA)|+3dB:zisk na přijímací čočce:1:1
+D_RXA:průměr na přijímací čočce(receive):0:0
+D_TXA:průměr na vysílací čočce(transmit):0:0
+α_IF:útlum na interferenčním filtru:0:0
+α_PD,RL=10log(S_PD/S_SP):útlum na vezbě přijímací čočka-fotodetektor:0:0
+Typy spojů(OBS):Podle směrovosti/směru/místa/provozu/mobility/počtu svazků/účelu/technologie:0:0
+Podle směrovosti(typ spoje OBS):Směrové-FSO(Free Space Optics), Všesměrové–VLC, UV comm:0:0
+Podle směru(typ spoje OBS):Horizontální-mezi budovami, Vertikální pozemní stanice a HAP(High Altitude Platform):0:0
+Podle místa(typ spoje OBS):Indoor–VLC, Outdoor–FSO:0:0
+Podle provozu(typ spoje OBS):Simplexní, Duplexní:0:0
+Podle mobility(typ spoje OBS):Statické, Mobilní:0:0
+Podle počtu svazků(typ spoje OBS):Jednosvazkové, Vícesvazkové:1:1
+Podle účelu(typ spoje OBS):Měřicí, Komunikační:0:0
+Podle technologie(typ spoje OBS):Klasické FSO, Plně fotonické FPL, Hybridní FSO/RF:0:0
+Energetická bilance optického bezkabelového spoje:graf výkon na délce, opakovače a zesilovače->zuby nahoru:0:0
+Výhody vláknových spojů:Přenosová rychlost(Tb/s), Dosah(i pod vodou, full svět), Dostupnost spoje(95+%), Odolnost proti rušení(EMC, EMI):1:1
+EMC:Elektromagnetická kompatibilita(neovlivňuje jiný objekt nebo sebe, odolává působení ostatních přístrojů):0:0
+EMI:Elektromagnetická interference(rušení):0:0
+EMS:Elektromagnetická susceptibilita(odolnost):1:1
+Nevýhody vláknových spojů:Výkopy(trasy, povoleníú, $(zesilovač, opakovač, opt. kabely, výkop), Omezená dostupnost(ne všude, problém poslední míle):0:0
+FSO:Free-space optical communication, vzduch/vesmír/vakuum/... (ne pevné látky):6:3
+FSO(výhody):Bezliceční pásmo, fast instalace, +rychlosti, ≈cheap, zabezpečení informace, neinterrgeruje s dalšími spoji a na long vzdálenosti:3:2
+FSO(nevýhody):Útlum v atm., atm. turbulence, přerušení laser. svazku, jen vybrané vlnové délky, chyby v zaměření, difrakce, časově nestabilní prostředí, nejde všude:0:0
 
 10)
 # Optické hybridní spoje FSO/RF a jejich charakteristika:
-# Princip komunikace plně fotonického spoje a požadavky na komunikační řetězec:
-# Visible light communication VLC:
-# Optická komunikační síť.
+Hybridní spoje FSO/RF:Optics(rychlejší)/Radio(ez mlha) Frequency, hard switching, soft switching(raptor kódy):0:0
+Fotonický spoj:+rychlosti(pas. komponenty Tb/s),aplikace WDM, přenáší fázi a čas. synchron. pulsy, dosměrování zrcadlem MEMS(přijímač, detekce vychílení) :0:0
+Visible light communication(VLC):LED světla(fast blik LED–modulace), nekoherentní záření, nesvítí-Dark VLC, Li-Fi:0:0
+Li-Fi:alternativa k Wi-Fi–v optické oblasti, dosah prostorově omezen i odrazy, NO interference s okolím, Indoor/Outdoor:1:1
+Indoor Li-Fi:kanceláře, haly, nemocnice:0:0
+Outdoor Li-Fi:C2C(car to car), C2I, autobusové zastávky, zastávky metra:1:1
+Li-Fi(parametry):Downlink–VIS, Uplink–IR, rychlost +Gb/s:0:0
+VLC(dělení):viditelnost (non)LOS[přímá/odraz], směrovost(přímá, hynrid, do všech stran):0:0
+UV SB NLOS:UV-use rozptyl v atm. jako odraz, SB-bez solárního šumu(200-280nm), NLOS-bez přímé viditelnosti:0:0
+UV SB NLOS(parametry):kb/s, dosah 100+m, (good pro vojáky):3:2
+Podvodní optická komunikace(typy):Akustický(worst, ale 1km), RF(bad, 100m), Optika(good, 500m), Vlákno(Perfect, 1km):1:1
+Podvodní optická komunikace(nevýhody akustiky):-šířka komunikačního pásma, -přenosové rychlosti, prodlevy kvůli pomalému šíření ve vodě, rychlost do Mb/s:0:0
+Podvodní optická komunikace(nevýhody optiky):vysoká absorpce optických vlnových délek ve vodním:0:0
+prostředí pro UV a IR vlnové délky, turbulence, bubliny
+Podvodní optická komunikace(optika):VIS(450-550nm modrá, zelená), Gb/s do 100m, chlorofil++->good do červena:1:1
+WBAN(Wireless Body Area Network):detekce charakt. snímaného subjektu pomocí senzorů a následné posílání dat optickým signálem do detekčního systému:0:0
+WBAN(vlastnosti):+dm, sběr dat, na těle, RF->bad for EMI, VLC->good(100++kb/s) + IR:-1:0
+WBAN(aplikace):Zátěžové testy, Monitoring stavu pacienta, Kardiotokografické měření:1:1
+Optické komunikace ve vesmíru:Pozemní stanice–družice(atm!!), družice–družice, Deep space:0:0
+Optické komunikace ve vesmíru(výhody oproti RF):+šířka pásma, -výkon nároky, -hmotnost, +směrovost, +bezpečnost, bezlicenční pásmo:0:0
+Optická komunikační síť(základ):(OK+OBS); Páteřní síť(kontinenty, WDM), lokální kabelové spoje, koncový uživatel(třeba OBS):0:0
+Koncový uživatel:optická linka, metalická linka, RF signál, OBS:1:1
+FTTx(Fiber-To-The-x):FTTH(Home), FTTB(Building), FTTC(Curb), FTTN(Node):-1:0
+5G:pátá generace bezdrátových systémů, standard mobilní sítě:-1:-1
+Aktivní optické sítě(Active Optical Network AON):elektricky napájené prvky(router, switch):0:0
+Pasivní optické sítě(Pasive Optical Network PON):pasivní prvky(optické splittery), napájení pouze optické vysílač/přijímač:1:1
+GPON:Gigabit PON:1:1
+EPON:Ethernet PON:1:1
+10G-PON:10 Gigabit PON:-1:0
+Optical Network Terminal(ONT):koncové rozhraní mezi optickou a elektrickou částí sítě, O/E konverzi. :0:0
+Full optická komunikační sít:Páteřní optické sítě, Lokální vláknové spoje, Optické bezkabelové spoje, Internet of Things, Visible Light Communication, Car2Car, Car2Infrastructure, High Altitude Platform, Underwater communication, Deep Space Communication, Li-Fi, Bezpečnostní systémy, Monitoring:3:2
 
-navíc)
-# Podprahový režim:nepolarizované záření(převládá spontánní emise):-134:11
+
+Řecká abeceda)
+Α α:alfa:-1000:34
+Β β:beta:-1000:20
+Γ γ:gama:-1000:33
+Δ δ:delta:-1000:31
+Ε ε:epsilon:-1000:37
+Ζ ζ:zéta:-1000:32
+Η η:éta:-1000:11
+Θ θ:théta:-1000:7
+Ι ι:ióta:-1000:10
+Κ κ:kappa:-1000:30
+Λ λ:lambda:-1000:23
+Μ μ:mí:-1000:28
+Ν ν:ný:-1000:24
+Ξ ξ:ksí:-1000:26
+Ο ο:omikron:-1000:17
+Π π:pí:-1000:29
+Ρ ρ:ró:-1000:28
+Σ σ/ς(konec):sigma:-1000:28
+Τ τ:tau:-1000:22
+Υ υ:ypsilon:-1000:9
+Φ φ/ϕ:fí:-1000:15
+Χ χ:chí:-1000:23
+Ψ ψ:psí:-1000:27
+Ω ω:omega:-1000:30

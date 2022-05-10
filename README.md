@@ -3,34 +3,22 @@
 * autor: Pastušek Václav
 * škola: VUT FEKT
 * rok: 2021/22
-* testeři: Pastušek Václav, Petr Medek, Ondra Rýšavý
+* testeři: Pastušek Václav, Petr Medek
 
 ## Potřeba nainstalovat:
-* Aktuálně nejlepší stáhnout jen Anacondu(odkaz níže) a ona nainstaluje Spyder
-* https://www.anaconda.com/products/distribution
-* Vyhledat a spustit Spyder(pokud jste stáhli Spyder bez Anacondy, tak tam nemusí fungovat pip pro instalaci!!)
-* dál dole vpravo v terminálu napsat: pip install tk
-* počkat na instalaci(musí tam být napsané complete)
-* poté: pip install opencv-python
-* počkat a už by to mělo vše, pak už jen vybrat stáhnutý python skript new_main.py a spustit
-* v případě obrázků se první obrázek objeví za Spyderem, tak na něj kliknout a enterem zavřít, ostatní už se budou vytvářet před ním
-* !!nejede to paralelně, takže dokud se nezavřou všechny obrázky(klávesou enterem/křížkem), tak program čeká 
-* pokud chcete otvírat jiný TXT soubor, tak v kódu musíte změnit cestu FILEPATH
-* V TXT datech je první číslo body, pokud chcete mít na 99.9% jen část otázek, tak změnte u nich body na -10000
-*
-* Ignorujte(avšak taky funguje):
 * Python verze 3.8+
 * https://www.python.org/downloads/
-* !!pozor při instalaci Spyder bez Anacondy, bylo zaznamenáno nestandardní chování IPython terminálu!!
-
+* nebo Spyder z Anacondy (pozor při instalaci Spyder bez Anacondy, bylo zaznamenáno nestandardní chování IPython terminálu)
+* https://www.anaconda.com/products/distribution
 
 ## BAT spuštění (Windows):
 * Potřeba nainstalovat opencv-python pro novou verzi, pro starou ne (skip na bod 3):
   1) otevřít příkazový řádek (do vyhledávače napsat: cmd)
-  2) spustit run_old.bat
+  2) napsat zde: py -m pip install opencv-python
+  3) spustit run.bat
 
 ## SH spuštění (Linux):
-  1) spustit run_old.sh
+  1) spustit run.sh
 
 ## Upozornění:
 * Lze použít i na naučení slovíček do ajiny.
@@ -73,15 +61,13 @@
 * pro ukončení obrázků stiskněte v obrázku libovolnou klávesu
 * feature: 
 * * +- v 25% po startu se random někde ubere 100 bodů, může být na více místech v závislosti na logaritmu dat o základě 2
-* * váhováné generování lineární klesající funkce
+* * váhováné generování všechny body se zvednou nad 0 a transformují podle 1/(x+1)+1
 
 ## TODO list:
 * jde kombinovat otázka (obrázek) a odpověď (text) nebo opačně, ale ne oboje v jedné části lexému !!!
 * možnost sdílení státnicových otázek mezi sebou a jiných testů dle předmětu
 * v průběhu testování je otevřen soubor, který při terminaci programu nebo nástání chyby, kterou nechytím smaže full data v statnice.txt !!!
 * * řešení: překopat program a vícekrát otvírat program bez přepisu a až nakonec s přepisem (moc práce)
-* GUI, za to mi nikdo neplatí XD
-* Výběr dat z TXT, aktuálně lze obejít zakomentování zbytku, nebo změnou bodů u dat na nízká čísla (okolo -10000) a ty se budou na 99,5% vyskytovat
 
 ## YT, otázky, doporučení, diskuze a jiné:
 * https://www.youtube.com/channel/UC9r0edjX9d8riV0OkaP7Cow

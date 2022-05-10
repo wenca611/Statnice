@@ -203,7 +203,7 @@ weld:svár, svářet:0:0
 adhesive:lepidlo:0:0
 bonding:spojit, slepit, svázat:0:0
 gluing:lepení:0:0
-joining:spojit:0:0
+joining:spojit:-1:-1
 fixing:připevnění:0:0
 above:výše:0:0
 beneath:pod, vespod:0:0

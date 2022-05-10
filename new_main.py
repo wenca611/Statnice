@@ -234,7 +234,7 @@ Vítejte v alfa verzi programu
     f.close()
     # kontrola řádků
     control_lines(lines)
-
+    old_lines = lines.copy()
     # výběr možností
     # počet kol
     loop_num = repeat_it("počet kol(1+)[best 10,20,50,100,500]: ", True)
@@ -289,7 +289,7 @@ Vítejte v alfa verzi programu
         QA_data = rn.choices(
             population=QA_data,
             # zvýšení hodnoty nad 0 a převrácení hodnoty
-            weights=list(map(lambda x: 1 / (x-min(points_weight) + 1) + 1,
+            weights=list(map(lambda x: -(x-max(points_weight)-1)/100000,
                              points_weight)),
             # budu násobit data, pokud chci více kol, než je dat
             # nebo krát 1 -> data se nezvětší
@@ -374,7 +374,10 @@ Vítejte v alfa verzi programu
             gain = int(choosen_line[4])
             if c_flag:  # správně
                 if gain < 1e7:
-                    gain += 1
+                    if gain > 10:
+                        gain *= 2
+                    else:
+                        gain += 1
                 else:  # omezení, aby se nešlo do nekonečna
                     gain -= 1
             else:  # špatně
@@ -396,7 +399,10 @@ Vítejte v alfa verzi programu
             print("\n")
 
     # zapsání a zavření souboru
-    f.write("".join(lines))
+    if choose_num != 1:
+        f.write("".join(lines))
+    else:
+        f.write("".join(old_lines))
     f.close()
 
     full_time = round(tim.perf_counter() - start, 2)

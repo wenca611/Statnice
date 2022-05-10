@@ -1,0 +1,83 @@
+#Otázka:Odpověď
+
+Řecká abeceda)
+Α α:alfa:-1000:34
+Β β:beta:-1000:20
+Γ γ:gama:-1000:33
+Δ δ:delta:-1000:31
+Ε ε:epsilon:-1000:37
+Ζ ζ:zéta:-1000:32
+Η η:éta:-1000:11
+Θ θ:théta:-1000:7
+Ι ι:ióta:-1000:10
+Κ κ:kappa:-1000:30
+Λ λ:lambda:-1000:23
+Μ μ:mí:-1000:28
+Ν ν:ný:-1000:24
+Ξ ξ:ksí:-1000:26
+Ο ο:omikron:-1000:17
+Π π:pí:-1000:29
+Ρ ρ:ró:-1000:28
+Σ σ/ς(konec):sigma:-1000:28
+Τ τ:tau:-1000:22
+Υ υ:ypsilon:-1000:9
+Φ φ/ϕ:fí:-1000:15
+Χ χ:chí:-1000:23
+Ψ ψ:psí:-1000:27
+Ω ω:omega:-1000:30
+
+
+7)
+Vysvětlete, co je planární mikropáskový rezonátor, nakreslete a popište mikropáskový rezonátor obdélníkového tvaru.
+Vysvětlete, co je štěrbinový rezonátor, nakreslete alespoň jeden příklad takového rezonátoru.
+Vysvětlete, co je dielektrický rezonátor, jaké jsou základní tvary takového rezonátoru, jakých typických hodnot nabývá vlastní činitel jakosti tohoto rezonátoru.
+Uveďte základní výhody dielektrických rezonátorů.
+
+8)
+Vysvětlete, jaký je význam členů rozptylové matice.
+Uveďte podmínku pro reciprokost obvodu.
+Uveďte podmínku pro bezeztrátovost obvodu.
+Na blokovém schématu popište princip funkce VNA.
+Proč je nutné provádět kalibraci VNA?
+K čemu se využívá teorie orientovaných grafů?
+
+9)
+Proč provádíme impedanční přizpůsobení zátěže k napájecímu vedení? Uveďte podmínku pro impedanční přizpůsobení.
+Vysvětlete princip impedančního přizpůsobení čtvrtvlnným transformátorem.
+Vysvětlete princip impedančního přizpůsobení vloženým vedením a čtvrtvlnným transformátorem.
+Vysvětlete princip impedančního přizpůsobení sériovým pahýlem.
+Vysvětlete princip impedančního přizpůsobení paralelním pahýlem.
+Vysvětlete princip impedančního přizpůsobení zužujícím se vedením.
+Porovnejte exponenciální, trojúhelníkové a Klopfensteinovo zúžení.
+
+10)
+Vysvětlete, co je dělič výkonu a uveďte v jakých režimech může pracovat.
+Nakreslete principiální schéma Wilkinsonova děliče výkonu a popište jeho funkci.
+Vysvětlete, co je směrová odbočnice.
+Uveďte a popište základní parametry směrových odbočnic.
+Vysvětlete princip funkce směrové odbočnice se dvěma otvory vzdálenými o λg/4 a uveďte příklad takové odbočnice s opačnou fází.
+Vysvětlete, co je kvadraturní hybrid a uveďte případ takého obvodu.
+
+11)
+Vysvětlete, co je odporový (absorpční) zeslabovač, popište základní princip a vyjmenujte základní typy těchto obvodů.
+Vysvětlete, co je bezodrazová koncovka a uveďte, jak ji realizujeme.
+Vysvětlete, co je posouvač fáze a uveďte, na jakých principech mohou být založeny.
+Vysvětlete, co je vlnovodový reaktanční člen a vyjmenujte základní typy.
+Vysvětlete, co je vlnovodový píst a uveďte příklady realizace.
+Nakreslete typy vlnovodových clon (včetně náhradního obvodu).
+Nakreslete typy vlnovodových kolíků (včetně náhradního obvodu).
+
+12)
+Vysvětlete, co je feromagnetická rezonance.
+Vysvětlete, co je Faradajův jev.
+Vysvětlete, co je dvojlom a příčná feromagnetická rezonance.
+Vysvětlete, co je feritový izolátor a uveďte příklady použití takového obvodu.
+Vysvětlete princip feritového izolátoru na základě Faradayova jevu.
+Vysvětlete, co je feritový cirkulátor a uveďte příklady použití takového obvodu.
+Vysvětlete princip tříramenného hvězdicového cirkulátoru.
+
+13)
+Vysvětlete, co vlnovod integrovaný do substrátu a nakreslete jeho typické uspořádání.
+Uveďte základní výhody a nevýhody vlnovodu integrovaného do substrátu.
+Nakreslete a popište přechod SIW-koaxiální vedení.
+Nakreslete a popište přechod SIW-mikropásek.
